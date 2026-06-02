@@ -1,0 +1,3272 @@
+[
+{
+"content_id": "BDB02500",
+"reference_id": "BDB02500",
+"version": "1.0.4",
+"title": "ו",
+"media_type": "Text",
+"index_reference": "ו",
+"language": "eng",
+"review_level": "None",
+"content": "<style> body { margin: 0; color: #1d1d1b; background: #fbfaf7; font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; } .document-header { border-bottom: 2px solid #1d1d1b; margin-bottom: 28px; padding-bottom: 16px; } h1, h2, h3 { line-height: 1.2; margin: 0; } h1 { font-size: 2rem; } .bdb-entry { border-top: 1px solid #bbb4a8; padding: 26px 0 8px; } .article-header { margin-bottom: 18px; } .article-header h2 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 12px; font-size: 1.55rem; } .bdb-subentry { margin: 18px 0 24px; padding-left: 18px; border-left: 4px solid #d4c8ad; } .bdb-subentry h3 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.15rem; } .bdb-code { color: #6a4f1c; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.82em; } .headwords, .hebrew { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; } .section-definition, .article-definition { color: #57524a; margin: 6px 0 10px; } .entry-meta { color: #5d5a54; display: flex; flex-wrap: wrap; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; gap: 6px 14px; margin: 8px 0 10px; } .entry-meta span { white-space: nowrap; } p.p { margin: 10px 0; } .strongs-number { color: #785f28; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; } .ref { color: #245f73; } .arabic, .syriac, .samaritan, .persian { direction: rtl; unicode-bidi: isolate; } .unmapped-entries { border-top: 2px solid #8c7b61; margin-top: 36px; padding-top: 24px; } .ethiopic { font-family: \"Abyssinica SIL\", \"GFF Amharic\", serif; } .greek { font-family: \"GFS Porson\", \"Gentium Plus\", \"Times New Roman\", serif; } blockquote { margin-left: 2em; } .strongs-number { vertical-align: super; font-size: smaller; } </style> <p class=\"p\"><span class=\"hebrew\">ו</span>, <i>Wāw</i>, sixth letter; in modern Heb. = numeral 6; no evidence of this usage in <abbr data-bdb=\"ABBR.481\">OT</abbr> times.</p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "BDB02501",
+"reference_id": "BDB02501",
+"version": "1.0.4",
+"title": "וְ",
+"media_type": "Text",
+"index_reference": "וְ",
+"language": "eng",
+"review_level": "None",
+"content": "<style> body { margin: 0; color: #1d1d1b; background: #fbfaf7; font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; } .document-header { border-bottom: 2px solid #1d1d1b; margin-bottom: 28px; padding-bottom: 16px; } h1, h2, h3 { line-height: 1.2; margin: 0; } h1 { font-size: 2rem; } .bdb-entry { border-top: 1px solid #bbb4a8; padding: 26px 0 8px; } .article-header { margin-bottom: 18px; } .article-header h2 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 12px; font-size: 1.55rem; } .bdb-subentry { margin: 18px 0 24px; padding-left: 18px; border-left: 4px solid #d4c8ad; } .bdb-subentry h3 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.15rem; } .bdb-code { color: #6a4f1c; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.82em; } .headwords, .hebrew { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; } .section-definition, .article-definition { color: #57524a; margin: 6px 0 10px; } .entry-meta { color: #5d5a54; display: flex; flex-wrap: wrap; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; gap: 6px 14px; margin: 8px 0 10px; } .entry-meta span { white-space: nowrap; } p.p { margin: 10px 0; } .strongs-number { color: #785f28; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; } .ref { color: #245f73; } .arabic, .syriac, .samaritan, .persian { direction: rtl; unicode-bidi: isolate; } .unmapped-entries { border-top: 2px solid #8c7b61; margin-top: 36px; padding-top: 24px; } .ethiopic { font-family: \"Abyssinica SIL\", \"GFF Amharic\", serif; } .greek { font-family: \"GFS Porson\", \"Gentium Plus\", \"Times New Roman\", serif; } blockquote { margin-left: 2em; } .strongs-number { vertical-align: super; font-size: smaller; } </style> <p class=\"p\"><span class=\"hebrew\">וְ</span>, <span class=\"hebrew\">וּ</span>, <span class=\"hebrew\">וָ</span> <b>demonstr. adv.</b> and <b><abbr data-bdb=\"ABBR.113\">conj.</abbr></b> so, then, and (<abbr data-bdb=\"ABBR.501\">Ph.</abbr> Moab. Aram. <span class=\"hebrew\">ו</span>; <abbr data-bdb=\"ABBR.454\">Ar.</abbr> <span class=\"arabic\">وَ</span>; Eth. <span class=\"ethiopic\">ወ፡</span> <abbr data-bdb=\"ABBR.17\">As.</abbr> <i>u</i> Dl<sup>W</sup> (but between vbs. the <abbr data-bdb=\"ABBR.660\">usu.</abbr> connective is the enclitic <i>ma</i> <abbr data-bdb=\"ABBR.319\">KAT<sup>2</sup></abbr>. 508, Dl:§§ 82, 150). The use in Heb. shews that orig. <span class=\"hebrew\">וְ</span> was not a merely copulative <abbr data-bdb=\"ABBR.113\">conj.</abbr>, but that it possessed a <i>demonstrative</i> force (cf. <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 122), which is often perceptible as such, though in other cases, from its being applied to denote mere juxtaposition or connexion [cf. Gk. <span class=\"greek\">τε</span>, and Lat. <i>tum…tum</i> = ‘ both…and, ’ both properly demonstratives: <abbr data-bdb=\"ABBR.17\">As.</abbr> <i>ma</i> has also a demonstr. force, Dl:§ 79], it is less palpable)—<span class=\"hebrew\">וְ</span> before shwa’ mobile or a labial is vocalized <span class=\"hebrew\">וּ</span>; often before a tone-syll., when the word itself has a disj. accent, <span class=\"hebrew\">וָ</span> (as :<span class=\"hebrew\">וָמַֽתִּי</span> <a href=\"https://ref.ly/Gen19:19\">Gn 19:19</a>; <span class=\"hebrew\">וָמֵ֭תוּ</span> <a href=\"https://ref.ly/Gen33:13\">33:13</a>; <span class=\"hebrew\">וָמֵָת</span> <a href=\"https://ref.ly/Gen44:9\">44:9</a>; :<span class=\"hebrew\">וָחָֽיָה</span> <a href=\"https://ref.ly/Exod1:16\">Ex 1:16</a>; <span class=\"hebrew\">וָ+ימָּה</span> <a href=\"https://ref.ly/Josh15:46\">Jos 15:46</a>; <span class=\"hebrew\">וָ֔ל֕אֹ</span> <a href=\"https://ref.ly/2Sam13:26\">2 S 13:26</a>; <span class=\"hebrew\">וָאָ֭רֶץ</span> <a href=\"https://ref.ly/Isa26:19\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 26:19</a>; <span class=\"hebrew\">וָקָ֔מוּ</span> <a href=\"https://ref.ly/Isa49:7\">49:7</a>; :<span class=\"hebrew\">וָחָֽתָּה</span> <a href=\"https://ref.ly/Jer48:1\">Je 48:1</a>; <span class=\"hebrew\">וָרָֹע</span> <a href=\"https://ref.ly/Ps10:15\">Psalm 10:15</a>); esp. when it forms with the preceding word a <i>pair,</i> whether of parallel or opposed ideas (as <span class=\"hebrew\">כֹּה וָכֹה</span> <a href=\"https://ref.ly/Exod2:12\">Ex 2:12</a>, <span class=\"hebrew\">מִי וָמִ֭י</span> <a href=\"https://ref.ly/Exod10:8\">10:8</a>, <span class=\"hebrew\">אֶבֶן וָאָבֶן</span> <a href=\"https://ref.ly/Deut25:13\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 25:13</a>; <span class=\"hebrew\">דֹּר וָדָֹר</span> <a href=\"https://ref.ly/Deut32:7\">32:7</a> +; <span class=\"hebrew\">תֹּהוּ וָבֹ֔הוּ</span> <a href=\"https://ref.ly/Gen1:2\">Gn 1:2</a>, <span class=\"hebrew\">בְּהֵמָה וָרֶמֶש</span> <a href=\"https://ref.ly/Gen1:24\">1:24</a>, :<span class=\"hebrew\">טוֺב וָרָֽע</span> <a href=\"https://ref.ly/Gen2:19\">2:19</a>, <span class=\"hebrew\">נָע וָנָ֭ד</span> <a href=\"https://ref.ly/Gen4:12\">4:12</a>, <span class=\"hebrew\">וְקַיִץ וָחֶֹרֶף וְיוֺם וָלָ֭יְלָה</span> <a href=\"https://ref.ly/Gen8:22\">8:22</a>, :<span class=\"hebrew\">קַח וָלֵֽח</span> <a href=\"https://ref.ly/Gen12:19\">12:19</a>, :<span class=\"hebrew\">שָׁמַיִם וָאָֽרֶץ</span> <a href=\"https://ref.ly/Gen14:19\">14:19</a>, <span class=\"hebrew\">אֲנִי וָאָתָּה</span> <a href=\"https://ref.ly/Gen31:44\">31:44</a>, <span class=\"hebrew\">אֲנִי וָהָוּא</span> <a href=\"https://ref.ly/Gen41:11\">41:11</a>, <span class=\"hebrew\">עִבְרוּ וָשׁ֝וּבוּ</span> <a href=\"https://ref.ly/Exod32:27\">Ex 32:27</a>, <span class=\"hebrew\">אַתָּה וָהֵֶם</span> <a href=\"https://ref.ly/Num16:16\">Nu 16:16</a>, <span class=\"hebrew\">אֱלֽהִים וָמֶָלָךְ</span> <a href=\"https://ref.ly/1Kgs21:13\">1 K 21:13</a>, <span class=\"hebrew\">נִין וָנֶ֭כֶד</span> <a href=\"https://ref.ly/Isa14:22\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 14:22</a>, <span class=\"hebrew\">שֹׁד וָשֶׁ֭בֶר</span> <a href=\"https://ref.ly/Isa59:7\">59:7</a>; and often: v. more fully <abbr data-bdb=\"ABBR.69\">Bö<sup>§</sup></abbr> 600); occas. also with a <abbr data-bdb=\"ABBR.113\">conj.</abbr> accent (as :<span class=\"hebrew\">וָשַחי לְעֹלָֽם</span> <a href=\"https://ref.ly/Gen3:22\">Gn 3:22</a> cf. <a href=\"https://ref.ly/Lev18:5\">Lv 18:5</a>, <span class=\"hebrew\">וָמַ֣תְנוּ שָׁם</span> <a href=\"https://ref.ly/2Kgs7:4\">2 K 7:4</a>, <span class=\"hebrew\">וָאָ֣רֶץ חֲדָשָׁה</span> <a href=\"https://ref.ly/Isa65:17\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 65:17</a>, <a href=\"https://ref.ly/Prov25:3\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 25:3</a>, :<span class=\"hebrew\">שֹׁ֭ד וָשֶשׁבֶר גָּדֽוֺל</span> <a href=\"https://ref.ly/Jer48:3\">Je 48:3</a>, cf. <a href=\"https://ref.ly/Jer32:29\">32:29</a>).—<span class=\"hebrew\">וְ</span> is used very freely and widely in Heb., but also with much delicacy, to express relations and shades of meaning which Western languages would <abbr data-bdb=\"ABBR.660\">usu.</abbr> indicate by distinct particles. But in Heb. particles such as <span class=\"hebrew\">אוֺ</span>, <span class=\"hebrew\">אָז</span>, <span class=\"hebrew\">אַךְ</span>, <span class=\"hebrew\">אָכֵן</span>, <span class=\"hebrew\">אוּלָם</span>, <span class=\"hebrew\">בַּעֲבוּר</span>, <span class=\"hebrew\">לְמַעַן</span>, <span class=\"hebrew\">לָכֵן</span>, etc., were reserved for cases in which special emph. or distinctness was desired: their frequent use was felt instinctively to be inconsistent with the lightness and grace of movement which the Hebrew ear loved; and thus in AV, <abbr data-bdb=\"ABBR.551\">RV</abbr>, words like <i>or, then, but, notwithstanding, howbeit, so, thus, therefore, that,</i> constantly appear, where the Heb. has simply <span class=\"hebrew\">וְ</span>.</p> <b>1.</b> <i>And,</i> connecting both words (v. supra), and sentences (<a href=\"https://ref.ly/Gen1:5\">Gn 1:5</a> ´<span class=\"hebrew\">וְלַחשֶׁךְ קָרָא וג</span>). When three, four, or more words follow, the <abbr data-bdb=\"ABBR.113\">conj.</abbr> may connect them all, as <a href=\"https://ref.ly/Gen7:21\">Gn 7:21</a>, <a href=\"https://ref.ly/Gen10:2\">10:2</a> (6 t.) <a href=\"https://ref.ly/Gen24:35\">24:35</a> (7 t.) <a href=\"https://ref.ly/Josh7:24\">Jos 7:24</a> (10 t.) <a href=\"https://ref.ly/2Sam17:28\">2 S 17:28</a> f.: often however it is prefixed only to the last, as <a href=\"https://ref.ly/Gen5:32\">Gn 5:32</a>, <a href=\"https://ref.ly/Gen10:1\">10:1</a>, <a href=\"https://ref.ly/Deut18:10\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 18:10</a> etc.; occas. even it connects only the first two, <a href=\"https://ref.ly/1Kgs8:47\">1 K 8:47</a>, <a href=\"https://ref.ly/Isa1:13\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 1:13</a>, <a href=\"https://ref.ly/Ps45:9\">Psalm 45:9</a>, <a href=\"https://ref.ly/Job42:9\">Jb 42:9</a>. Remarkably, however, <span class=\"hebrew\">וְ</span> as a <i>mere</i> <abbr data-bdb=\"ABBR.113\">conj.</abbr> is, as a rule, not in classical Hebrew attached directly to <i>verbs</i> (esp. in the perf.), the construction with <span class=\"hebrew\">וְ</span> consec. (v. <b>2</b>) being (as in Moab.) preferred: thus <span class=\"hebrew\">יָצָא וַיִּבֶן</span> is said, not <span class=\"hebrew\">יָצָא וּבָנָה</span>. Exceptions in class. Heb. are (<i>a</i>) <abbr data-bdb=\"ABBR.616\">sts.</abbr> where <i>synonyms</i> are coupled, as <a href=\"https://ref.ly/Num23:19\">Nu 23:19</a> <span class=\"hebrew\">וְדִבֶּר</span>…<span class=\"hebrew\">אָמַר</span>, <a href=\"https://ref.ly/Deut2:30\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 2:30</a>, Ju <a href=\"https://ref.ly/Judg5:26\">5:26</a>, <a href=\"https://ref.ly/1Sam12:2\">1 S 12:2</a>, <a href=\"https://ref.ly/Isa1:2\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 1:2</a> <span class=\"hebrew\">גדּלתי ורוממתי</span> <a href=\"https://ref.ly/Isa2:11\">2:11</a>, <a href=\"https://ref.ly/Isa5:14\">5:14</a>, <a href=\"https://ref.ly/Isa8:8\">8:8</a>, <a href=\"https://ref.ly/Isa19:6\">19:6</a>, <a href=\"https://ref.ly/Isa29:20\">29:20</a>; (<i>b</i>) isolated cases, difficult to reduce to rule (perh. <abbr data-bdb=\"ABBR.616\">sts.</abbr> due to text. error), as <a href=\"https://ref.ly/Gen28:6\">Gn 28:6</a>, <a href=\"https://ref.ly/Gen38:5\">38:5</a>, <a href=\"https://ref.ly/Gen3:23\">Jud 3:23</a>, <a href=\"https://ref.ly/Gen7:13\">7:13</a>, <a href=\"https://ref.ly/Gen16:18\">16:18</a>, <a href=\"https://ref.ly/1Sam1:12\">1 S 1:12</a>, <a href=\"https://ref.ly/1Sam3:13\">3:13</a>, <a href=\"https://ref.ly/1Sam4:19\">4:19</a>, <a href=\"https://ref.ly/1Sam5:7\">5:7</a>, <a href=\"https://ref.ly/1Sam10:9\">10:9</a>, <a href=\"https://ref.ly/1Sam17:38\">17:38</a>, <a href=\"https://ref.ly/1Sam17:48\">17:48</a>, <a href=\"https://ref.ly/1Sam25:20\">25:20</a> <abbr data-bdb=\"ABBR.10\">al.</abbr> (in other passages, appar. similar, the pf. and <span class=\"hebrew\">וְ</span> has a frequent. force (v. <b>2</b>), as <a href=\"https://ref.ly/Gen37:3\">Gn 37:3</a>, <a href=\"https://ref.ly/Exod36:29\">Ex 36:29</a> f., <a href=\"https://ref.ly/Num10:17\">Nu 10:17</a> f., <a href=\"https://ref.ly/Num21:15\">21:15</a>, <a href=\"https://ref.ly/Num21:20\">21:20</a>, <a href=\"https://ref.ly/1Sam2:22\">1 S 2:22</a>, <a href=\"https://ref.ly/1Sam16:14\">16:14</a>, <a href=\"https://ref.ly/1Sam17:34\">17:34</a> f. (v. <abbr data-bdb=\"ABBR.160\">Dr</abbr>) <a href=\"https://ref.ly/1Sam27:9\">27:9</a>, <a href=\"https://ref.ly/2Sam16:13\">2 S 16:13</a>, <a href=\"https://ref.ly/2Sam17:17\">17:17</a>, perh. also <a href=\"https://ref.ly/Gen15:6\">Gen. 15:6</a>, <a href=\"https://ref.ly/Gen21:25\">21:25</a>, <a href=\"https://ref.ly/Gen34:5\">34:5</a>). In later parts of <abbr data-bdb=\"ABBR.481\">OT</abbr>, prob. through Aram. influence, the pf. with simple <span class=\"hebrew\">וְ</span> occurs more freq.: so esp. in Ec., where it is all but universal (e.g. <a href=\"https://ref.ly/Eccl2:11\">2:11</a>, <a href=\"https://ref.ly/Eccl2:12\">2:12</a>, <a href=\"https://ref.ly/Eccl2:13\">2:13</a>, <a href=\"https://ref.ly/Eccl2:15\">2:15</a> <abbr data-bdb=\"ABBR.326\">etc.)</abbr>. With the impf., the simple <span class=\"hebrew\">וְ</span> is not so unidiomatic, even in class. Heb. (cf. <b>3</b>); v. <a href=\"https://ref.ly/Gen1:9\">Gen 1:9</a>, <a href=\"https://ref.ly/Gen1:26\">1:26</a>, <a href=\"https://ref.ly/Gen9:27\">9:27</a>, <a href=\"https://ref.ly/Gen17:2\">17:2</a>, <a href=\"https://ref.ly/Gen22:17\">22:17</a>, <a href=\"https://ref.ly/Gen27:29\">27:29</a>, <a href=\"https://ref.ly/Exod23:8\">Ex 23:8</a> (freq.) <a href=\"https://ref.ly/Exod24:7\">24:7</a>, <a href=\"https://ref.ly/Num14:12\">Nu 14:12</a>, <a href=\"https://ref.ly/Deut17:13\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 17:13</a>, <a href=\"https://ref.ly/Deut30:12\">30:12</a>, <a href=\"https://ref.ly/Deut30:13\">30:13</a>, <a href=\"https://ref.ly/Josh3:13\">Jos 3:13</a>, <a href=\"https://ref.ly/Josh7:3\">7:3</a>, Ju <a href=\"https://ref.ly/Judg7:3\">7:3</a>, <a href=\"https://ref.ly/Judg13:8\">13:8</a>, <a href=\"https://ref.ly/Isa5:29\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 5:29</a>, <a href=\"https://ref.ly/Isa14:10\">14:10</a>; <abbr data-bdb=\"ABBR.468\">oft.</abbr> also in Je, <abbr data-bdb=\"ABBR.282\">Is</abbr>:<span class=\"ref\" data-ref=\"Is 2\">2</span>, Jb, Psalm, e.g. <a href=\"https://ref.ly/Isa40:30\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 40:30</a>, <a href=\"https://ref.ly/Isa41:20\">41:20</a> (<abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 116: contrast <a href=\"https://ref.ly/Isa28:13\">28:13</a>). Vid. more fully <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 130–4 <abbr data-bdb=\"ABBR.213\">Ges<sup>§</sup></abbr> 112. 6. Special senses:—<b>a.</b> it <abbr data-bdb=\"ABBR.616\">sts.</abbr> = <i>and specially</i>, <a href=\"https://ref.ly/Gen3:16\">Gn 3:16</a>, <a href=\"https://ref.ly/1Kgs11:1\">1 K 11:1</a> many strange women, <i>and specially</i> the daughter of <abbr data-bdb=\"ABBR.501\">Ph.</abbr>, <a href=\"https://ref.ly/Isa1:1\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 1:1</a> Judah <i>and</i> (= <i>and particularly</i>) Jerusalem, <a href=\"https://ref.ly/Isa2:1\">2:1</a>, <a href=\"https://ref.ly/Isa9:7\">9:7</a>, <a href=\"https://ref.ly/Ps18:1\">Psalm 18:1</a>. <b>b.</b> <i>and in particular</i> (‘und zwar’), <i>and that</i> (explicative), <a href=\"https://ref.ly/Gen4:4\">Gn 4:4</a>, Ju <a href=\"https://ref.ly/Judg7:22\">7:22</a>, <a href=\"https://ref.ly/1Sam17:40\">1 S 17:40</a> <span class=\"hebrew\">וּבַיַּלְקוּט</span>, <a href=\"https://ref.ly/1Sam28:3\">28:3</a> in Ramah, <i>and that</i> in his city (unusual: text suspicious), <a href=\"https://ref.ly/2Sam13:20\">2 S 13:20</a> <span class=\"hebrew\">וְשֹׁמֵמָה</span> <i>and that</i> desolate, <a href=\"https://ref.ly/Isa57:11\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 57:11</a> I have been silent <span class=\"hebrew\">וּמֵעוֺלָם</span> <i>and that</i> from of old, <a href=\"https://ref.ly/Isa32:7\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 32:7</a>, <a href=\"https://ref.ly/Jer15:13\">Je 15:13</a>, <a href=\"https://ref.ly/Amos3:11\">Am 3:11</a> (<abbr data-bdb=\"ABBR.587\">si vera l.</abbr>), <a href=\"https://ref.ly/Amos4:10\">4:10</a>, <a href=\"https://ref.ly/Zech9:9\"><abbr data-bdb=\"ABBR.703\">Zc</abbr> 9:9</a> b, <a href=\"https://ref.ly/Mal1:11\">Mal 1:11</a>, <a href=\"https://ref.ly/Ps68:10\">Psalm 68:10</a>, <a href=\"https://ref.ly/Prov3:12\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 3:12</a>, <a href=\"https://ref.ly/Lam3:26\">La 3:26</a>, <a href=\"https://ref.ly/Eccl8:2\">Ec 8:2</a>, <a href=\"https://ref.ly/Dan1:3\">Dn 1:3</a>, <a href=\"https://ref.ly/Dan8:10\">8:10</a>, <a href=\"https://ref.ly/Dan9:25\">9:25</a>, <a href=\"https://ref.ly/Dan9:27\">9:27</a>, <a href=\"https://ref.ly/Neh8:13\"><abbr data-bdb=\"ABBR.441\">Ne</abbr> 8:13</a>, <a href=\"https://ref.ly/1Chr9:27\">1 Ch 9:27</a>, <a href=\"https://ref.ly/2Chr8:13\">2 Ch 8:13</a>, <a href=\"https://ref.ly/2Chr29:27\">29:27</a> (but‘ even’ for <span class=\"hebrew\">ו</span>, before <span class=\"hebrew\">ל</span> and inf., e.g. in <a href=\"https://ref.ly/Isa44:28\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 44:28</a>, <a href=\"https://ref.ly/Jer17:10\">Je 17:10</a>, <a href=\"https://ref.ly/Jer19:12\">19:12</a>, is wrong; v. <abbr data-bdb=\"ABBR.182\">Ew<sup>§</sup></abbr> 351 c, <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 206). <b><abbr data-bdb=\"ABBR.380\">c.</abbr></b> <abbr data-bdb=\"ABBR.616\">sts.</abbr> it introduces an idea which so exceeds or adds to what has preceded, that it is nearly equivalent to <i>also</i>, <a href=\"https://ref.ly/1Sam25:43\">1 S 25:43</a>, <a href=\"https://ref.ly/1Kgs2:22\">1 K 2:22</a> ask <i>also</i> the kingdom for him; unusually <a href=\"https://ref.ly/Hos8:6\">Ho 8:6</a> <span class=\"hebrew\">כי מישראל והוא</span> for of Isr. is it <i>also</i>, <a href=\"https://ref.ly/Eccl5:6\">Ec 5:6</a> <span class=\"hebrew\">והבלים</span> (v. <abbr data-bdb=\"ABBR.130\">De</abbr>) <a href=\"https://ref.ly/2Chr27:5\">2 Ch 27:5</a> (but v. LXX). Or it may be rendered <i>yea:</i> so esp. in the ascending numerations 3–4 <a href=\"https://ref.ly/Amos1:3\">Am 1:3</a>, <a href=\"https://ref.ly/Amos1:6\">1:6</a>, <a href=\"https://ref.ly/Amos1:9\">1:9</a>, <a href=\"https://ref.ly/Amos1:11\">1:11</a>, <a href=\"https://ref.ly/Amos1:13\">1:13</a>, <a href=\"https://ref.ly/Amos2:1\">2:1</a>, <a href=\"https://ref.ly/Amos2:4\">2:4</a>, <a href=\"https://ref.ly/Amos2:6\">2:6</a>, <a href=\"https://ref.ly/Prov30:18\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 30:18</a>, <a href=\"https://ref.ly/Prov30:21\">30:21</a>, <a href=\"https://ref.ly/Prov30:29\">30:29</a>, <span class=\"ref\" data-ref=\"Pr 6-7\">6–7</span>, <a href=\"https://ref.ly/Prov6:16\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 6:16</a>, <a href=\"https://ref.ly/Job5:19\">Jb 5:19</a>, <a href=\"https://ref.ly/Job5:7-Job5:8\">7–8</a>, <a href=\"https://ref.ly/Mic5:4\">Mi 5:4</a>—the first number being aggravated, or augmented, by a higher. In one idiom <span class=\"hebrew\">וּגְבוּל</span>, occurring in geogr. descriptions, it is used peculiarly, seemingly = <i>at the same time:</i> † <a href=\"https://ref.ly/Num34:6\">Nu 34:6</a> and as for the W. border, <span class=\"hebrew\">וְהָיָה לָכֶם הַיָּם הַגָּדוֺל וּגְבוּל</span> the great sea shall be to you <i>also</i> (Germ. ‘zugleich’) a border, <a href=\"https://ref.ly/Deut3:16\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 3:16</a> <span class=\"hebrew\">תּוֺךְ הַנַּחַל וּגְבוּל</span> the middle of the stream being <i>at the same time</i> the border, v:<a href=\"https://ref.ly/Deut3:17\">17</a>, <a href=\"https://ref.ly/Josh13:23\">Jos 13:23</a>, <a href=\"https://ref.ly/Josh13:27\">13:27</a>, <a href=\"https://ref.ly/Josh15:12\">15:12</a>, <a href=\"https://ref.ly/Josh15:47\">15:47</a> (but these, exc. <a href=\"https://ref.ly/Num34:6\">Nu 34:6</a>, might be cases of <b>5 c</b> <span class=\"greek\">γ</span>). <b>d.</b> it connects <i>alternative</i> cases, so that it = <i>or:</i> <a href=\"https://ref.ly/Exod20:10\">Ex 20:10</a>, <a href=\"https://ref.ly/Exod20:17\">20:17</a>, <a href=\"https://ref.ly/Exod21:16\">21:16</a> he that stealeth a man <span class=\"hebrew\">וּמְכָרוֺ וְנִמְצָא בְיָדוֺ</span> and selleth him, <i>and</i> (= <i>or if</i>) he be found in his hand, v:<a href=\"https://ref.ly/Exod21:17\">17</a>, <a href=\"https://ref.ly/Lev21:14\">Lv 21:14</a>, <a href=\"https://ref.ly/Lev22:23\">22:23</a>, <a href=\"https://ref.ly/Lev22:24\">22:24</a>, <a href=\"https://ref.ly/Prov29:9\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 29:9</a> (Fl <abbr data-bdb=\"ABBR.181\">Ew</abbr> <abbr data-bdb=\"ABBR.551\">RV</abbr>: <i>whether…or</i>) <a href=\"https://ref.ly/Job31:13\">Jb 31:13</a>, <a href=\"https://ref.ly/Job31:16\">31:16</a>, <a href=\"https://ref.ly/Job31:26\">31:26</a>, etc. <b>e.</b> it connects <i>contrasted</i> ideas, where in our idiom the contrast would be expressed explicitly by <i>but;</i> in such cases prominence is <abbr data-bdb=\"ABBR.660\">usu.</abbr> given to the contrasted idea by its being placed immed. after the <abbr data-bdb=\"ABBR.113\">conj.</abbr>: <a href=\"https://ref.ly/Gen2:17\">Gn 2:17</a> <i>but</i> of the tree of the knowledge…thou shalt not eat, <a href=\"https://ref.ly/Gen4:2\">4:2</a>, <a href=\"https://ref.ly/Gen4:5\">4:5</a>, <a href=\"https://ref.ly/Gen6:8\">6:8</a>, <a href=\"https://ref.ly/Gen17:21\">17:21</a>, <a href=\"https://ref.ly/Gen31:10\">31:10</a> etc., <a href=\"https://ref.ly/1Kgs2:26\">1 K 2:26</a>, <a href=\"https://ref.ly/1Kgs10:7\">10:7</a>, <a href=\"https://ref.ly/1Kgs11:32\">11:32</a>, <a href=\"https://ref.ly/1Kgs11:34\">11:34</a>, <a href=\"https://ref.ly/1Kgs15:14\">15:14</a>, <a href=\"https://ref.ly/Prov10:1\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 10:1</a>, <a href=\"https://ref.ly/Prov10:2\">10:2</a>, <a href=\"https://ref.ly/Prov10:3\">10:3</a>, <a href=\"https://ref.ly/Prov10:4\">10:4</a> + <abbr data-bdb=\"ABBR.468\">oft.</abbr>; even after <span class=\"hebrew\">לאֹ</span> (where <span class=\"hebrew\">כִּי</span> or <span class=\"hebrew\">כִּי אִם</span> might be expected), as <a href=\"https://ref.ly/Gen42:10\">Gn 42:10</a>, <a href=\"https://ref.ly/Exod21:18\">Ex 21:18</a>, <a href=\"https://ref.ly/Lev26:45\">Lv 26:45</a>, <a href=\"https://ref.ly/Deut11:11\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 11:11</a>, Ju <a href=\"https://ref.ly/Judg19:12\">19:12</a>, <a href=\"https://ref.ly/1Kgs3:11\">1 K 3:11</a>. <b>f.</b> it introduces a contrasted idea in such a way as to suggest a <i>question</i>, esp. before a pron., Ju <a href=\"https://ref.ly/Judg14:16\">14:16</a> I told it not to my father or my mother, <span class=\"hebrew\">וְלָךְ אַגִּיד</span> and shall I told it <i>unto thee?</i> <a href=\"https://ref.ly/2Sam11:11\">2 S 11:11</a>, <a href=\"https://ref.ly/Jer25:29\">Je 25:29</a> <span class=\"hebrew\">וְאַתֶּם הִנָּקֵה תִנָּקוּ</span> and shall <i>ye</i> be guiltless? <a href=\"https://ref.ly/Jer45:5\">45:5</a>, Ez <a href=\"https://ref.ly/Ezek20:31\">20:31</a>, <a href=\"https://ref.ly/Ezek33:25\">33:25</a> b, <a href=\"https://ref.ly/Jonah4:11\">Jon 4:11</a>. So the <span class=\"hebrew\">וְ</span> consec. and pf. (see <b>2 a</b>), <a href=\"https://ref.ly/Exod5:5\">Ex 5:5</a> <span class=\"hebrew\">וְהִשְׁבַּתֶּם</span> <i>and</i> will ye make them rest from their burdens? <a href=\"https://ref.ly/Num16:10\">Nu 16:10</a> <span class=\"hebrew\">וּבִקַּשְׁתֶּם</span> <i>and</i> seek ye the priesthood also? <a href=\"https://ref.ly/1Sam25:11\">1 S 25:11</a>, <a href=\"https://ref.ly/Isa66:9\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 66:9</a>, <a href=\"https://ref.ly/Ps50:21\">Psalm 50:21</a> <i>and</i> shall I keep silence? <a href=\"https://ref.ly/Job32:16\">Jb 32:16</a> (cf. <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 119 <span class=\"greek\">γ</span>). <b>g.</b> attaching a fresh subj. (or <abbr data-bdb=\"ABBR.466\">obj.</abbr>) to a clause already grammatically complete, it = <i>and also,</i> <a href=\"https://ref.ly/Gen2:9\">Gn 2:9</a> b, <a href=\"https://ref.ly/Num16:2\">Nu 16:2</a>, <a href=\"https://ref.ly/Num16:18\">16:18</a> and they stood at the entrance of the tent of meeting, <span class=\"hebrew\">ומשׁה ואהרן</span> <i>and</i> Moses and Aaron (stood also), v:<a href=\"https://ref.ly/Num16:27\">27</a>, <a href=\"https://ref.ly/Exod35:22\">Ex 35:22</a>, Ju <a href=\"https://ref.ly/Judg6:5\">6:5</a>, <a href=\"https://ref.ly/Gen1:16\">Gn 1:16</a> b, <a href=\"https://ref.ly/Gen12:17\">12:17</a>, <a href=\"https://ref.ly/Gen44:2\">44:2</a>, <a href=\"https://ref.ly/Gen46:15\">46:15</a>, <a href=\"https://ref.ly/Exod29:3\">Ex 29:3</a>, <a href=\"https://ref.ly/Jer32:29\">Je 32:29</a> (cf. <abbr data-bdb=\"ABBR.164\">Dr<sup>Sm</sup></abbr>. i. 6, 11, &amp; p. 293): when the idea thus attached is subordinate, or not logically embraced in the principal pred., it approximates to the Arab. <span class=\"arabic\">وَاوُ الْمَعِيَّةِ</span> or ‘waw of association’ (foll. by an <i>accus.:</i> <abbr data-bdb=\"ABBR.675\">W<sup>AG</sup></abbr> ii. § 37), <a href=\"https://ref.ly/Esth4:16\">Est 4:16</a> <span class=\"hebrew\">אֲנִי וְנַעֲרֹתַי אָצוּם</span> I will fast (<i>sing.</i>) <i>and</i> (= with) my maidens, <a href=\"https://ref.ly/Exod21:4\">Ex 21:4</a>, <a href=\"https://ref.ly/1Sam25:42\">1 S 25:42</a>, <a href=\"https://ref.ly/1Sam29:10\">29:10</a> b (but insert here <span class=\"hebrew\">אַתָּה</span> with LXX) <a href=\"https://ref.ly/2Sam12:30\">2 S 12:30</a> (but read <span class=\"hebrew\">וּבָהּ</span>, as <a href=\"https://ref.ly/1Chr20:2\">1 Ch 20:2</a>) <a href=\"https://ref.ly/1Sam20:10\">20:10</a>, <a href=\"https://ref.ly/Neh6:12\"><abbr data-bdb=\"ABBR.441\">Ne</abbr> 6:12</a>; <a href=\"https://ref.ly/Gen4:20\">Gn 4:20</a>, <a href=\"https://ref.ly/Isa42:5\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 42:5</a>, <a href=\"https://ref.ly/Jer19:1\">Je 19:1</a> (but read <span class=\"hebrew\">וְלָקַחְתָּ֫ מזקני</span> with LXX) <a href=\"https://ref.ly/2Chr2:3\">2 Ch 2:3</a>, <a href=\"https://ref.ly/2Chr13:11\">13:11</a>; cf. <a href=\"https://ref.ly/Jer22:7\">Je 22:7</a> (<span class=\"hebrew\">אִישׁ וְכֵלָיו</span>), <a href=\"https://ref.ly/Job41:12\">Jb 41:12</a>. Whether <a href=\"https://ref.ly/Isa48:16\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 48:16</a> <span class=\"hebrew\">וְרוּחוֺ</span> belongs here, is <abbr data-bdb=\"ABBR.167\">dub.</abbr> <b>h.</b> <span class=\"hebrew\">וְ</span> repeated = <i>both…and</i> (but <span class=\"hebrew\">גַּם</span>…<span class=\"hebrew\">גַּם</span>) is more usual in this sense); <a href=\"https://ref.ly/Gen34:28\">Gn 34:28</a>, <a href=\"https://ref.ly/Num9:14\">Nu 9:14</a>, <a href=\"https://ref.ly/Josh9:23\">Jos 9:23</a>, <a href=\"https://ref.ly/2Sam5:8\">2 S 5:8</a> (txt. <abbr data-bdb=\"ABBR.167\">dub.</abbr>), <a href=\"https://ref.ly/Isa16:5\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 16:5</a>, <a href=\"https://ref.ly/Isa38:15\">38:15</a>, <a href=\"https://ref.ly/Jer13:14\">Je 13:14</a>, <a href=\"https://ref.ly/Jer21:6\">21:6</a>, <a href=\"https://ref.ly/Jer32:14\">32:14</a> (txt. <abbr data-bdb=\"ABBR.167\">dub.</abbr>) v:<a href=\"https://ref.ly/Jer32:20\">20</a>, <a href=\"https://ref.ly/Jer40:8\">40:8</a>, <a href=\"https://ref.ly/Ps76:7\">Psalm 76:7</a>, <a href=\"https://ref.ly/Job34:29\">Jb 34:29</a>, <a href=\"https://ref.ly/Dan8:13\">Dn 8:13</a>, <a href=\"https://ref.ly/Neh12:28\"><abbr data-bdb=\"ABBR.441\">Ne</abbr> 12:28</a>. <b>i.</b> a repetition of the <i>same</i> word with <span class=\"hebrew\">וְ</span> interposed expresses (<i>a</i>) <i>diversity</i> (rare), <a href=\"https://ref.ly/Deut25:13\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 25:13</a> <span class=\"hebrew\">אֶבֶן וָאֶבֶן</span> a weight <i>and</i> a weight, i.e. different weights (explained by <span class=\"hebrew\">גְּדֹלָה וּקְטַנָּה</span>), v:<a href=\"https://ref.ly/Deut25:14\">14</a>, <a href=\"https://ref.ly/Prov20:23\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 20:23</a>; <a href=\"https://ref.ly/Ps12:3\">Psalm 12:3</a> <span class=\"hebrew\">בְּלֵב וָלֵב</span> with a heart and a heart = with a double heart, <a href=\"https://ref.ly/1Chr12:33\">1 Ch 12:33</a> <span class=\"hebrew\">בְּלאֹ לֵב וָלֵב</span>; (<i>b</i>) <i>distribution</i> (exc. in <span class=\"hebrew\">דֹּר וָדֹר</span> <a href=\"https://ref.ly/Deut32:7\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 32:7</a>, <a href=\"https://ref.ly/Isa13:20\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 13:20</a> + <abbr data-bdb=\"ABBR.468\">oft.</abbr> exclusively a late usage: cf. <abbr data-bdb=\"ABBR.162\">Dr<sup>Intr</sup>.</abbr>. 505) † <a href=\"https://ref.ly/Ps87:5\">Psalm 87:5</a>, <a href=\"https://ref.ly/1Chr26:13\">1 Ch 26:13</a> :<span class=\"hebrew\">לְשַׁעַר וָשָֽׁעַר</span> = for <i>every</i> gate, <a href=\"https://ref.ly/1Chr28:14\">28:14</a>, <a href=\"https://ref.ly/1Chr28:14\">28:14</a>, <a href=\"https://ref.ly/2Chr8:14\">2 Ch 8:14</a>, <a href=\"https://ref.ly/2Chr34:13\">34:13</a>, <a href=\"https://ref.ly/2Chr35:15\">35:15</a>, <a href=\"https://ref.ly/Ezra10:14\">Ezr 10:14</a> <span class=\"hebrew\">זִקְנֵי עִיר וָעִיר</span> elders of <i>every</i> city, <a href=\"https://ref.ly/Neh13:24\"><abbr data-bdb=\"ABBR.441\">Ne</abbr> 13:24</a>, <a href=\"https://ref.ly/Esth1:8\">Est 1:8</a>, <a href=\"https://ref.ly/Esth1:22\">1:22</a>, <a href=\"https://ref.ly/Esth1:22\">1:22</a>, <a href=\"https://ref.ly/Esth2:12\">2:12</a>, <a href=\"https://ref.ly/Esth3:4\">3:4</a>, <a href=\"https://ref.ly/Esth3:12\">3:12</a>, <a href=\"https://ref.ly/Esth3:12\">3:12</a>, <a href=\"https://ref.ly/Esth3:12\">3:12</a>, <a href=\"https://ref.ly/Esth3:12\">3:12</a>, <a href=\"https://ref.ly/Esth8:9\">8:9</a>, <a href=\"https://ref.ly/Esth8:9\">8:9</a>; strengthened by <span class=\"hebrew\">כָּ־ל</span> <a href=\"https://ref.ly/2Chr11:12\">2 Ch 11:12</a> <span class=\"hebrew\">בכל עיר ועיר</span> in <i>every several city</i>, <a href=\"https://ref.ly/2Chr19:5\">19:5</a>, <a href=\"https://ref.ly/2Chr28:25\">28:25</a>, <a href=\"https://ref.ly/2Chr31:19\">31:19</a>, <a href=\"https://ref.ly/2Chr32:28\">32:28</a>, <a href=\"https://ref.ly/Esth2:11\">Est 2:11</a> <span class=\"hebrew\">בכל־יום ויום</span>, <a href=\"https://ref.ly/Esth3:14\">3:14</a>, <a href=\"https://ref.ly/Esth4:3\">4:3</a>, <a href=\"https://ref.ly/Esth8:11\">8:11</a>, <a href=\"https://ref.ly/Esth8:13\">8:13</a>, <a href=\"https://ref.ly/Esth8:17\">8:17</a>, <a href=\"https://ref.ly/Esth8:17\">8:17</a>, <a href=\"https://ref.ly/Esth9:21\">9:21</a>, <a href=\"https://ref.ly/Esth9:27\">9:27</a>, <a href=\"https://ref.ly/Esth9:28\">9:28</a>, <a href=\"https://ref.ly/Ps45:18\">Psalm 45:18</a>, <a href=\"https://ref.ly/Ps145:13\">145:13</a> (common in <abbr data-bdb=\"ABBR.510\">post B</abbr>. Heb., esp. with <span class=\"hebrew\">כל</span>). <b>j.</b> it is used in the formulation of proverbs (the <i>Vav adaequationis</i>, <span class=\"hebrew\">וָו הִשְׁתַּוָּאָה</span>) as <a href=\"https://ref.ly/Prov17:3\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 17:3</a>, <a href=\"https://ref.ly/Prov25:3\">25:3</a>, <a href=\"https://ref.ly/Prov25:20\">25:20</a>, <a href=\"https://ref.ly/Prov25:25\">25:25</a> cold waters to a thirsty soul <i>and</i> good news from a far country (i.e. they are like each other), <a href=\"https://ref.ly/Prov26:3\">26:3</a>, <a href=\"https://ref.ly/Prov26:9\">26:9</a>, <a href=\"https://ref.ly/Prov26:14\">26:14</a>, <a href=\"https://ref.ly/Prov26:20\">26:20</a>, <a href=\"https://ref.ly/Prov27:21\">27:21</a>, <a href=\"https://ref.ly/Eccl5:2\">Ec 5:2</a>, <a href=\"https://ref.ly/Eccl7:1\">7:1</a>, <a href=\"https://ref.ly/Eccl8:8\">8:8</a> cf. <a href=\"https://ref.ly/Eccl9:11\">9:11</a>; <a href=\"https://ref.ly/Ps19:5\">Psalm 19:5</a>, <a href=\"https://ref.ly/Ps125:2\">125:2</a>, <a href=\"https://ref.ly/Job14:11\">Jb 14:11</a> f, <a href=\"https://ref.ly/Job14:19\">14:19</a> (cf. in Arab. ‘every man <i>and</i> his cares [<i>accus.</i>],’ ‘every thing <i>and</i> its price,’ i.e. they go together: ‘merchants <i>and</i> dogs [<i>accus.</i>] of Seleucia,’ i.e. they are like one another: v. Fl<sup>Kl</sup>. <abbr data-bdb=\"ABBR.573\">Schr</abbr>. iii. 535 f.). More <abbr data-bdb=\"ABBR.651\">rarely</abbr> in the <abbr data-bdb=\"ABBR.477\">opp.</abbr> order, <a href=\"https://ref.ly/Job5:7\">Jb 5:7</a>, <a href=\"https://ref.ly/Job12:11\">12:11</a>. But <a href=\"https://ref.ly/1Sam12:15\">1 S 12:15</a> b cannot be thus explained: rd. with LXX <span class=\"hebrew\">וּבְמַלְכְּכֶם</span>, and v. <abbr data-bdb=\"ABBR.160\">Dr</abbr>. <b>k.</b> in <i>circumstantial</i> clauses <span class=\"hebrew\">וְ</span> introduces a statement of the <i>concomitant conditions</i> under which the action denoted by the principal verb takes place: in such cases, the relation expressed by <span class=\"hebrew\">וְ</span> must often in Engl. be stated explicitly by a <abbr data-bdb=\"ABBR.113\">conj.</abbr>, as <i>when, since, seeing, though,</i> etc., as occasion may require. So very often, as <a href=\"https://ref.ly/Gen11:4\">Gn 11:4</a> let us build a tower <span class=\"hebrew\">וְראֹשׁוֺ בַשָּׁמַיִם</span> <i>and</i> its top in the heavens (= <i>with</i> its top in <abbr data-bdb=\"ABBR.326\">etc.)</abbr>, <a href=\"https://ref.ly/Gen18:12\">18:12</a> shall I have pleasure, <span class=\"hebrew\">וַאדֹנִי זָקֵן</span> <i>and</i> my lord is old (= my lord <i>being</i> old)? Ju <a href=\"https://ref.ly/Judg16:15\">16:15</a> How sayest thou, I love thee, <span class=\"hebrew\">וְלִבְּךָ אֵין אִתִּי</span> <i>and</i> (= <i>when</i>) thy heart is not with me? and esp. with a <abbr data-bdb=\"ABBR.498\">Pers.</abbr> pron., <a href=\"https://ref.ly/Gen15:2\">Gn 15:2</a> what wilt thou give me <span class=\"hebrew\">וְאָנֹכִי</span> <span class=\"hebrew\">הֹלֵךְ עֲרִירִי</span> <i>and</i> I (= <i>the case being that</i> I) am going hence childless? <a href=\"https://ref.ly/Gen18:13\">18:13</a>, <a href=\"https://ref.ly/Gen20:3\">20:3</a> lo, thou wilt die because of the woman thou hast taken :<span class=\"hebrew\">וְהִוא בְּעֻלַת בָּֽעַל</span> = <i>seeing</i> she is married, <a href=\"https://ref.ly/Gen24:62\">24:62</a> <span class=\"hebrew\">וְהוּא ישֵׁב</span> = <i>since</i> or <i>for</i> he was dwelling (different from <span class=\"hebrew\">וַיֵּשֶׁב</span> = <i>and he proceeded</i> to dwell), <a href=\"https://ref.ly/Gen26:27\">26:27</a> <span class=\"hebrew\">וְאַתֶּם</span> <i>seeing</i> ye hate me, Ju <a href=\"https://ref.ly/Judg13:9\">13:9</a> and came to her <span class=\"hebrew\">וְהִיא ישֶׁבֶת</span> = <i>as</i> she was sitting, <a href=\"https://ref.ly/1Sam18:23\">1 S 18:23</a>, <a href=\"https://ref.ly/1Kgs19:19\">1 K 19:19</a> + <abbr data-bdb=\"ABBR.468\">oft.</abbr> Of a more except. type are <a href=\"https://ref.ly/Ps72:12\">Psalm 72:12</a> the afflicted <span class=\"hebrew\">וְאֵין־עֹזֵר</span> <span class=\"hebrew\">לוֺ</span> <i>and</i> (= <i>when</i>) he has no helper (cf. <a href=\"https://ref.ly/Job29:12\">Jb 29:12</a>), <a href=\"https://ref.ly/Ps104:25\">104:25</a> <span class=\"hebrew\">וְאֵין מִסְפָּר</span>, <a href=\"https://ref.ly/Ps105:34\">105:34</a>, <a href=\"https://ref.ly/Job5:9\">Jb 5:9</a>. Vid. more fully <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 156–60 <abbr data-bdb=\"ABBR.213\">Ges<sup>§</sup></abbr> 141, R 2. (The analogous use of the <span class=\"arabic\">وَاوُ الْحَالِ</span> is very common in Arabic: <abbr data-bdb=\"ABBR.674\">W<sup>ii</sup></abbr>. § 183.) Introducing an appeal to a fact <i>confirmatory</i> of some statement or promise, it almost = <i>as truly as</i> (cf. <abbr data-bdb=\"ABBR.182\">Ew<sup>§</sup></abbr> 340 c) <a href=\"https://ref.ly/Hos12:6\">Ho 12:6</a> <i>and</i> J. is God of hosts, J. is his name! <a href=\"https://ref.ly/Joel4:20\">Jo 4:20</a>, <a href=\"https://ref.ly/Amos9:5-Amos9:6\">Am 9:5–6</a>, <a href=\"https://ref.ly/Isa51:15\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 51:15</a> <i>and</i> I [who promise this] am J. thy God, who .…! <a href=\"https://ref.ly/Jer29:23\">Je 29:23</a>, <a href=\"https://ref.ly/Ps89:38\">Psalm 89:38</a> b (comp. in <abbr data-bdb=\"ABBR.522\">Qor</abbr>. the freq. ‘And God is .…[the mighty, the merciful, etc.]’). <b>2.</b> The <span class=\"hebrew\">ו</span> consecutive (formerly called the Waw ‘conversive’);—<b>a.</b> with the <b>impf.</b> (•<span class=\"hebrew\">וַ</span> with foll. daghesh; before <span class=\"hebrew\">א</span>, <span class=\"hebrew\">וָ</span>), as <span class=\"hebrew\">וַיּאֹמֶר</span> prop. = <i>and he proceeded</i> to say, chiefly in contin. of a preceding <i>perfect</i> tense (so Moab.); <b>b.</b> with the <b>perf.</b> (<span class=\"hebrew\">וְ</span>,—in 1 &amp; 2 sg., the tone, with certain exceptions [v. <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 110], being thrown forward to the ultima), as <span class=\"hebrew\">וְיָֽשַׁבְתָּ֫</span> prop. <i>so</i> [<i>viz.</i> as limited by a verb, or other term, preceding] <i>hadst thou sat</i>, chiefly in continuation of a preceding <i>imperfect</i> tense, in its various senses of future, jussive, or frequentative. The further analysis of these idioms belongs to the grammar; see on <b>a</b> <abbr data-bdb=\"ABBR.160\">Dr<sup>Ch</sup></abbr>. vi., <abbr data-bdb=\"ABBR.213\">Ges<sup>§</sup></abbr> 111, and on <b>b</b> <abbr data-bdb=\"ABBR.160\">Dr<sup>Ch</sup></abbr>. viii. <abbr data-bdb=\"ABBR.213\">Ges<sup>§</sup></abbr> 112. Here it must suffice to note—(<i>a</i>) <span class=\"hebrew\">ו</span> consec. (esp. with the impf.) freq. couples two <i>verbs</i> in such a manner that the first, indicating the <i>general</i> character of the action, receives its closer definition in the second: in such cases, the first may often be represented in Engl. by an <i>adv.,</i> as <a href=\"https://ref.ly/Gen26:18\">Gn 26:18</a> <span class=\"hebrew\">וַיָּשָׁב וַיַּחְפֹּר</span> and he turned <i>and</i> dug = and he dug <i>again;</i> so <abbr data-bdb=\"ABBR.468\">oft.</abbr>; and similarly with <span class=\"hebrew\">הוֺסִיף</span> <a href=\"https://ref.ly/Gen25:1\">Gn 25:1</a>, <span class=\"hebrew\">מִהַר</span> <a href=\"https://ref.ly/Gen24:18\">24:18</a>, <span class=\"hebrew\">הוֺאִיל</span> <a href=\"https://ref.ly/Josh7:7\">Jos 7:7</a>, etc.; more exceptionally, <a href=\"https://ref.ly/Gen30:27\">Gn 30:27</a>, <a href=\"https://ref.ly/Esth8:6\">Est 8:6</a>, and (not consec.) <a href=\"https://ref.ly/Gen47:6\">Gn 47:6</a>, <a href=\"https://ref.ly/Job23:3\">Jb 23:3</a>, <abbr data-bdb=\"ABBR.121\">Ct</abbr> <a href=\"https://ref.ly/Song2:3\">2:3</a>, <a href=\"https://ref.ly/Lam3:26\">La 3:26</a> (v. <abbr data-bdb=\"ABBR.213\">Ges<sup>§</sup></abbr> 120, 2 <i>a</i>; cf. in Syr. <abbr data-bdb=\"ABBR.451\">Nö<sup>§</sup></abbr> 335–6. In Arab. the stronger form of the <abbr data-bdb=\"ABBR.113\">conj.</abbr> <span class=\"arabic\">فَ</span> here corresponds: <abbr data-bdb=\"ABBR.674\">W<sup>ii</sup></abbr>. § 140). (<i>b</i>) •<span class=\"hebrew\">וַ</span> with the impf. <abbr data-bdb=\"ABBR.616\">sts.</abbr> expresses a contrast = <i>and yet</i>, <a href=\"https://ref.ly/Gen32:31\">Gn 32:31</a> I have seen God face to face <span class=\"hebrew\">וַתִּנָּצֵל</span> <i>and yet</i> my soul is delivered, <a href=\"https://ref.ly/Deut4:33\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 4:33</a>, <a href=\"https://ref.ly/2Sam3:8\">2 S 3:8</a>, <a href=\"https://ref.ly/2Sam19:29\">19:29</a>, <a href=\"https://ref.ly/Isa51:12\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 51:12</a>, <a href=\"https://ref.ly/Ps73:14\">Psalm 73:14</a>, <a href=\"https://ref.ly/Ps144:3\">144:3</a>, <a href=\"https://ref.ly/Job10:8\">Jb 10:8</a> + (cf. <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 74 <span class=\"greek\">β</span>). (<i>c</i>) there is a tendency in the later books of the <abbr data-bdb=\"ABBR.481\">OT</abbr> to use the pf. with simple <span class=\"hebrew\">וְ</span>, where the classical language would employ the impf. with •<span class=\"hebrew\">וַ</span> (cf. <abbr data-bdb=\"ABBR.622\">supr.</abbr> <b>1</b>); so esp. in Ec, where •<span class=\"hebrew\">ַ</span> occurs thrice only, <a href=\"https://ref.ly/Eccl1:17\">1:17</a>, <a href=\"https://ref.ly/Eccl4:1\">4:1</a>, <a href=\"https://ref.ly/Eccl4:7\">4:7</a>. (<i>d</i>) a double pf. with <span class=\"hebrew\">ו</span> consec. is <abbr data-bdb=\"ABBR.616\">sts.</abbr> used, informally but neatly, with a hypoth. force; thus (<i>a</i>) in past or present time <a href=\"https://ref.ly/Exod16:21\">Ex 16:21</a> :<span class=\"hebrew\">וְחַם הַשֶּׁמֶשׁ וְנָמָֽס</span> and the sun used to be warm, and it used to melt = and <i>if</i> (or <i>when</i>) the sun was warm, it melted, <a href=\"https://ref.ly/Exod33:10\">33:10</a>, <a href=\"https://ref.ly/1Kgs18:10\">1 K 18:10</a>, <a href=\"https://ref.ly/Jer18:4\">Je 18:4</a>, <a href=\"https://ref.ly/Jer18:8\">18:8</a> <span class=\"hebrew\">וְֹשָׁב וְנִחַמְתִּ֫י</span> = and <i>if</i> it turns, I repent, <a href=\"https://ref.ly/Jer20:9\">20:9</a> (v. <abbr data-bdb=\"ABBR.551\">RV</abbr>); (<span class=\"greek\">β</span>) in fut. time, <a href=\"https://ref.ly/Gen44:22\">Gn 44:22</a> <span class=\"hebrew\">ועזב אביו ומת</span> and he will leave his father, and he will die = and <i>if</i> he leaves his father, he will die, <a href=\"https://ref.ly/Gen33:13\">33:13</a>, <a href=\"https://ref.ly/Gen42:38\">42:38</a>, <a href=\"https://ref.ly/Exod4:14\">Ex 4:14</a>, <a href=\"https://ref.ly/Exod12:13\">12:13</a>, <a href=\"https://ref.ly/1Sam16:2\">1 S 16:2</a>, <a href=\"https://ref.ly/1Sam19:3\">19:3</a>, Ez <a href=\"https://ref.ly/Ezek33:3\">33:3</a>, <a href=\"https://ref.ly/Ezek39:15\">39:15</a> etc. (<abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 147–9, <abbr data-bdb=\"ABBR.213\">Ges<sup>§</sup></abbr> 159. 2 e). <b>3.</b> With a <b>voluntative</b> (cohort. or juss.) <span class=\"hebrew\">וְ</span> expresses an intention, that or so that (an elegancy by which the too frequent use of <span class=\"hebrew\">לְמַעַן</span> or <span class=\"hebrew\">בַּעֲבוּר</span> is avoided): <a href=\"https://ref.ly/Exod10:17\">Ex 10:17</a> entreat God, <span class=\"hebrew\">וְיָסֵר</span> <i>so may he</i> remove (= <i>that he may</i> remove) this death, <a href=\"https://ref.ly/Gen27:4\">Gn 27:4</a> and bring it me <span class=\"hebrew\">וְאֹכֵָלָה</span> <i>so let me</i> eat (= <i>that I may</i> eat); and without the modal form being externally indicated, <a href=\"https://ref.ly/Exod14:1\">Ex 14:1</a> speak…<span class=\"hebrew\">וְיָשֻׁבוּ</span> <i>that</i> they return, v:<a href=\"https://ref.ly/Exod14:15\">15</a>; and <abbr data-bdb=\"ABBR.468\">oft.</abbr> Sts. even of past time, as <a href=\"https://ref.ly/1Kgs13:33\">1 K 13:33</a> whom he would, he consecrated <span class=\"hebrew\">וִיהִי</span> <i>that</i> there might be priests of the high places, <a href=\"https://ref.ly/2Kgs19:25\">2 K 19:25</a>, <a href=\"https://ref.ly/Isa25:9\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 25:9</a> a, <a href=\"https://ref.ly/Lam1:19\">La 1:19</a>. After a neg., <a href=\"https://ref.ly/Ps51:18\">Psalm 51:18</a> thou desirest not sacrifice, <span class=\"hebrew\">וְאֶתֵָּנָה</span> <i>so</i> [= in that case] <i>would I</i> give it (or, <i>that I might</i> give it), <a href=\"https://ref.ly/Ps55:13\">55:13</a> <span class=\"hebrew\">וְאֶשָּא</span> <i>so</i> could I bear it (or, <i>that I might</i> bear it), <a href=\"https://ref.ly/Isa53:2\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 53:2</a> <abbr data-bdb=\"ABBR.552\">RVm</abbr> <a href=\"https://ref.ly/Num23:19\">Nu 23:19</a>, <a href=\"https://ref.ly/Jer5:28\">Je 5:28</a> <abbr data-bdb=\"ABBR.551\">RV</abbr>. Sts. also before an imv., <a href=\"https://ref.ly/Gen12:2\">Gn 12:2</a> <i>and be</i> (= that thou mayest be) a blessing, <a href=\"https://ref.ly/2Sam21:3\">2 S 21:3</a> +. See more fully <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 59–65, <abbr data-bdb=\"ABBR.213\">Ges<sup>§</sup></abbr> 108. 2; 109. 2; 110. 2. (In Arabic <span class=\"arabic\">فَ</span> with the <i>subjunctive</i> is used similarly: <abbr data-bdb=\"ABBR.674\">W<sup>ii</sup></abbr>. § 15 d.) A volunt. is also <abbr data-bdb=\"ABBR.616\">sts.</abbr> attached by <span class=\"hebrew\">וְ</span> to a preceding volunt. or imv., so as to form a virtually hypothetical sentence, as <a href=\"https://ref.ly/Gen42:18\">Gn 42:18</a> <span class=\"hebrew\">זאֹת עֲשוּ וִחְיוּ</span> = <i>if</i> you do this, you shall live, <a href=\"https://ref.ly/Gen30:28\">30:28</a>, <a href=\"https://ref.ly/Gen34:12\">34:12</a>, <a href=\"https://ref.ly/Prov3:9\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 3:9</a> f., <a href=\"https://ref.ly/Prov4:4\">4:4</a>, <a href=\"https://ref.ly/Prov4:8\">4:8</a>, <a href=\"https://ref.ly/Isa55:2\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 55:2</a>: v. <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 152. <b>4.</b> It expresses often an informal inference, or consequence, so, then, esp. at the beginning of a speech: <a href=\"https://ref.ly/Gen27:8\">Gn 27:8</a>, <a href=\"https://ref.ly/Ps2:10\">Psalm 2:10</a> and often <span class=\"hebrew\">וְעַתָּה</span> now, <i>therefore;</i> <span class=\"hebrew\">וְלָמָּה</span> and <span class=\"hebrew\">וּמַדּוּעַ</span> why, <i>then?</i> <a href=\"https://ref.ly/Gen29:25\">Gn 29:25</a>, <a href=\"https://ref.ly/Num12:8\">Nu 12:8</a>, <a href=\"https://ref.ly/Num16:3\">16:3</a> +; <a href=\"https://ref.ly/Exod2:20\">Ex 2:20</a> <span class=\"hebrew\">וְאַיּוֺ</span> where, <i>then,</i> is he? <a href=\"https://ref.ly/Gen34:21\">Gn 34:21</a>, <a href=\"https://ref.ly/1Sam15:14\">1 S 15:14</a>, <a href=\"https://ref.ly/1Sam26:22\">26:22</a> <span class=\"hebrew\">וְיַעֲבֹר</span> let, <i>then,…</i> come over, <a href=\"https://ref.ly/2Sam24:3\">2 S 24:3</a>, <a href=\"https://ref.ly/2Kgs4:41\">2 K 4:41</a>, <span class=\"hebrew\">וּקְחוּ קֶמַח</span> <i>then</i> bring meal, Ez <a href=\"https://ref.ly/Ezek18:32\">18:32</a>. So the <span class=\"hebrew\">וְ</span> consec. and the pf., as <a href=\"https://ref.ly/Deut2:4\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 2:4</a> <span class=\"hebrew\">וְנִשְׁמַרְתֶּם</span> take heed, <i>therefore</i>, <a href=\"https://ref.ly/Deut4:15\">4:15</a>, <a href=\"https://ref.ly/Deut7:9\">7:9</a> <span class=\"hebrew\">וְיָֽדַעְתָּ֫</span> know, <i>therefore,</i> <a href=\"https://ref.ly/Deut30:19\">30:19</a>, <a href=\"https://ref.ly/1Sam6:5\">1 S 6:5</a>, <a href=\"https://ref.ly/1Kgs2:6\">1 K 2:6</a>, <a href=\"https://ref.ly/Ruth3:9\"><abbr data-bdb=\"ABBR.550\">Ru</abbr> 3:9</a>; <a href=\"https://ref.ly/Josh15:19\">Jos 15:19</a>, <a href=\"https://ref.ly/Isa40:6\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 40:6</a> b (<abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 119 <span class=\"greek\">δ</span>). <b>5.</b> <span class=\"hebrew\">ו</span> introduces the <i>predicate</i> or <i>apodosis:</i> viz. <b>a.</b> <span class=\"hebrew\">וְ</span> consec. and the <i>pf.</i>—in answer to <span class=\"hebrew\">אִם</span> or <span class=\"hebrew\">כִּי</span> constantly, as <a href=\"https://ref.ly/Exod19:5\">Ex 19:5</a>, <a href=\"https://ref.ly/Exod23:22\">23:22</a> if thou hearkenest to my voice, <span class=\"hebrew\">וְאָֽיַבְתִּ֫י</span> <i>then</i> am I (= I will be) enemy to thy enemies (v. <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 136–8); after the <i>casus pendens</i>, <a href=\"https://ref.ly/Exod12:44\">Ex 12:44</a> every servant that is bought for money, <span class=\"hebrew\">וּמַלְתָּ֫ה</span> thou shalt circumcise him, etc. <a href=\"https://ref.ly/Num14:31\">Nu 14:31</a>, <a href=\"https://ref.ly/Num24:24\">24:24</a>, <a href=\"https://ref.ly/1Sam25:27\">1 S 25:27</a>, <a href=\"https://ref.ly/2Sam14:10\">2 S 14:10</a> he that spake unto thee, <span class=\"hebrew\">וַהֲבֵאתוֺ אֵלַי</span> <i>so hast thou</i> brought him (= <i>thou shalt</i> bring him) unto me, <a href=\"https://ref.ly/Isa9:4\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 9:4</a>, <a href=\"https://ref.ly/Isa56:6\">56:6</a> f. +; <a href=\"https://ref.ly/Exod12:15\">Ex 12:15</a>, <a href=\"https://ref.ly/Exod31:14\">31:14</a>, <a href=\"https://ref.ly/Deut17:12\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 17:12</a> +; after various time-determinations, as <a href=\"https://ref.ly/Gen3:5\">Gn 3:5</a> in the day of your eating from it <span class=\"hebrew\">וְנִפְקְחוּ</span> <i>then</i> shall your eyes be opened, <a href=\"https://ref.ly/Exod16:6\">Ex 16:6</a> <span class=\"hebrew\">עֶרֶב וִידַעְתֶּם</span> at even, <i>then</i> shall ye know, v:<a href=\"https://ref.ly/Exod16:7\">7</a>, <a href=\"https://ref.ly/Exod32:34\">32:34</a>, <a href=\"https://ref.ly/2Sam15:10\">2 S 15:10</a>, <a href=\"https://ref.ly/1Kgs13:31\">1 K 13:31</a> <span class=\"hebrew\">בְּמוֺתִי וּקְבַרְתֶּם אֹתִי</span> when I die, <i>so</i> ye shall bury me, etc., + <abbr data-bdb=\"ABBR.468\">oft.</abbr>; after conjs., as <span class=\"hebrew\">כִּי</span> <a href=\"https://ref.ly/Gen29:15\">Gn 29:15</a>, <span class=\"hebrew\">יַעַן</span> <a href=\"https://ref.ly/1Kgs20:28\">1 K 20:28</a>, <a href=\"https://ref.ly/Isa3:16\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 3:16</a> f., <span class=\"hebrew\">תַּחַת</span> <a href=\"https://ref.ly/Isa60:15\">60:15</a>, etc., (v. <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 123). <b>b.</b> •<span class=\"hebrew\">וַ</span> consec. and the <i>impf.</i> (but much less frequently than the pf.), as <a href=\"https://ref.ly/Gen30:30\">Gn 30:30</a> the little that thou hadst, <span class=\"hebrew\">וַיִּפְרֹץ</span> <i>it</i> hath increased, <a href=\"https://ref.ly/Exod9:21\">Ex 9:21</a>, <a href=\"https://ref.ly/2Sam4:10\">2 S 4:10</a>, <a href=\"https://ref.ly/1Kgs9:20\">1 K 9:20</a> f., <a href=\"https://ref.ly/1Kgs15:13\">15:13</a> +; after time-determinations, <a href=\"https://ref.ly/Gen22:4\">Gn 22:4</a> on the third day <span class=\"hebrew\">וַיִּשָּא</span> <i>then</i> Abraham lifted up his eyes, <a href=\"https://ref.ly/Gen19:15\">19:15</a>, <a href=\"https://ref.ly/Gen27:34\">27:34</a>, <a href=\"https://ref.ly/Gen37:18\">37:18</a>, <a href=\"https://ref.ly/1Sam6:6\">1 S 6:6</a>, <a href=\"https://ref.ly/1Sam12:8\">12:8</a>, <a href=\"https://ref.ly/Isa6:1\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 6:1</a>, <a href=\"https://ref.ly/Hos11:1\">Ho 11:1</a> when Isr. was a child, <span class=\"hebrew\">וָאֹהֲבֵהוּ</span> <i>then</i> I loved him, +; occas. after conjs., as <span class=\"hebrew\">כַּאֲשֶׁר</span> <a href=\"https://ref.ly/Exod16:34\">Ex 16:34</a>, <span class=\"hebrew\">יַעַן</span> <a href=\"https://ref.ly/1Sam15:23\">1 S 15:23</a>, <span class=\"hebrew\">לְמַעַן</span> <a href=\"https://ref.ly/Isa45:4\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 45:4</a>, <span class=\"hebrew\">אִם</span> <a href=\"https://ref.ly/Ps59:16\">Psalm 59:16</a> (<abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 127). <b><abbr data-bdb=\"ABBR.380\">c.</abbr></b> in other cases (not ‘consecutive’)—all more or less uncommon: viz. <i>a.</i> <span class=\"hebrew\">וְ</span> closely joined to the impf. <a href=\"https://ref.ly/Gen13:9\">Gn 13:9</a> if to the left, <span class=\"hebrew\">וְאֵימִינָה</span> <i>then</i> I will take the right (cf. <a href=\"https://ref.ly/2Sam12:8\">2 S 12:8</a>) <a href=\"https://ref.ly/Exod12:3\">Ex 12:3</a> on the 10th of the month <span class=\"hebrew\">וְיִקְחוּ</span> <i>then</i> let them take, <a href=\"https://ref.ly/Num16:5\">Nu 16:5</a>, <a href=\"https://ref.ly/Isa43:4\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 43:4</a>, <a href=\"https://ref.ly/Hos4:6\">Ho 4:6</a>, <a href=\"https://ref.ly/Hos10:10\">10:10</a>, <a href=\"https://ref.ly/Ps69:33\">Psalm 69:33</a>, <a href=\"https://ref.ly/Job15:17\">Jb 15:17</a>; <a href=\"https://ref.ly/2Sam22:41\">2 S 22:41</a>, <a href=\"https://ref.ly/Prov23:24\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 23:24</a> <abbr data-bdb=\"ABBR.359\">Kt</abbr> (<abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 125); <span class=\"greek\">β</span>. separated fr. the <abbr data-bdb=\"ABBR.663\">vb.</abbr>, <a href=\"https://ref.ly/Exod8:22\">Ex 8:22</a>, <a href=\"https://ref.ly/Lev7:16\">Lv 7:16</a> <span class=\"hebrew\">וּמִמָּחֳרָת</span> <span class=\"hebrew\">וְהַנּוֺתָר יֵאָכֵל</span> and on the morrow, <i>then</i> the remainder shall be eaten, <a href=\"https://ref.ly/Josh3:3\">Jos 3:3</a>, <a href=\"https://ref.ly/1Kgs8:32\">1 K 8:32</a>, <a href=\"https://ref.ly/Isa8:7\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 8:7</a>, <a href=\"https://ref.ly/Isa48:7\">48:7</a>, <a href=\"https://ref.ly/Job14:7\">Jb 14:7</a>, <a href=\"https://ref.ly/Job20:18\">20:18</a> b, <a href=\"https://ref.ly/Job23:12\">23:12</a>, <a href=\"https://ref.ly/Job25:5\">25:5</a>, <a href=\"https://ref.ly/Job32:14\">32:14</a> +; <span class=\"greek\">γ</span>. without a <abbr data-bdb=\"ABBR.663\">vb.</abbr>, <a href=\"https://ref.ly/Gen40:9\">Gn 40:9</a> <span class=\"hebrew\">בַּחֲלֽמִי וְהִנֵּה</span> in my dream, <i>behold</i>, a vine was before me, v:<a href=\"https://ref.ly/Gen40:16\">16</a>, <a href=\"https://ref.ly/2Sam23:3\">2 S 23:3</a> f., <a href=\"https://ref.ly/Prov10:25\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 10:25</a>, and the extreme cases <a href=\"https://ref.ly/2Sam15:34\">2 S 15:34</a> thy father's slave, <span class=\"hebrew\">וַאֲנִי מֵאָו</span> I was <i>that</i> of old,—but now <span class=\"hebrew\">וַאֲנִי עַבְדְּךָ</span> <i>well</i>, I will be thine, <a href=\"https://ref.ly/Isa34:12\"><abbr data-bdb=\"ABBR.282\">Is</abbr> 34:12</a> (<abbr data-bdb=\"ABBR.587\">si vera l.</abbr>), <a href=\"https://ref.ly/Job4:6\">Jb 4:6</a> b <span class=\"hebrew\">תִּקְוָֽתְךָ וְתֹם דְּרָכֶיךָ</span> thy confidence—<i>it is</i> the uprightness of thy ways, <a href=\"https://ref.ly/Job36:26\">36:26</a> <span class=\"hebrew\">מִסְפַּר שָׁנָיו וְלאֹ חֵקֶר</span> <abbr data-bdb=\"ABBR.212\">Ges</abbr>. seine Jahre, <i>da</i> ist kein Zählen (cf. <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 124–5, 128–9).—With <b>4, 5</b> comp. the Arab. <span class=\"arabic\">فَ</span>, <abbr data-bdb=\"ABBR.674\">W<sup>i</sup></abbr>. § 366 <i>b</i>, 367 <i>c</i>; ii. § 187; <abbr data-bdb=\"ABBR.161\">Dr<sup>§</sup></abbr> 185 <i>end</i>. <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">2051</span>]</abbr> † <span class=\"hebrew\">וְדָן</span>, appar. <b>n.<abbr data-bdb=\"ABBR.465\">pr.loc.</abbr>,</b> only in <span class=\"hebrew\">וְדָן וְיָוָן</span> Ez <a href=\"https://ref.ly/Ezek27:19\">27:19</a> <i>Wedān and Yāwān</i> (cf. <abbr data-bdb=\"ABBR.662\">VB</abbr> and reff.) but identif. wholly <abbr data-bdb=\"ABBR.167\">dub.</abbr>; = <i>Waddân</i> near Medina acc. to Glas<sup>Skizze</sup> ii. 428: LXX om.; text prob. corrupt, cf. <abbr data-bdb=\"ABBR.606\">Sta<sup>Javan</sup></abbr>. 11 ff. <abbr data-bdb=\"ABBR.126\">Da</abbr> <abbr data-bdb=\"ABBR.10\">al.</abbr>; <abbr data-bdb=\"ABBR.181\">Ew</abbr> <abbr data-bdb=\"ABBR.249\">Hi</abbr> rd. <span class=\"hebrew\">דְּדָן</span>, but <span class=\"hebrew\">דְּדָן</span> is in following v., and anticipation improb., cf. <abbr data-bdb=\"ABBR.606\">Sta<sup>l</sup></abbr>. <abbr data-bdb=\"ABBR.380\">c.</abbr>; <abbr data-bdb=\"ABBR.111\">Co</abbr> rds. (for <span class=\"hebrew\">ודן ויון</span>) <span class=\"hebrew\">וְאַרְנָבָן</span>, on the basis of <abbr data-bdb=\"ABBR.31\">Bab.</abbr> &amp; <abbr data-bdb=\"ABBR.17\">As.</abbr> <i>Aranabanim, Arnabani</i>, n.<abbr data-bdb=\"ABBR.465\">pr.loc.</abbr>, following <i>Ḫilbunim</i> (<span class=\"hebrew\">חֶלְבּוֺן</span>) in lists of places whence wine was brought (cf. <span class=\"hebrew\">יֵין חֶלְבּוֺן</span> v:<a href=\"https://ref.ly/Ezek27:18\">18</a>, &amp; LXX <span class=\"greek\">καὶ οἶνον</span> for <span class=\"hebrew\">ויון</span>; also <abbr data-bdb=\"ABBR.117\">COT</abbr> Ez <a href=\"https://ref.ly/Ezek27:18\">27:18</a>).</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">2052</span>]</abbr> † <span class=\"hebrew\">וָהֵב</span>, appar. <b>n.<abbr data-bdb=\"ABBR.465\">pr.loc.</abbr>,</b> <span class=\"hebrew\">אֶת־וָהֵב בְּסוּפָה</span> <a href=\"https://ref.ly/Num21:14\">Nu 21:14</a>, <abbr data-bdb=\"ABBR.466\">obj.</abbr> of a <abbr data-bdb=\"ABBR.663\">vb.</abbr> now lost out of the text (cf. <abbr data-bdb=\"ABBR.551\">RV</abbr> &amp; esp. Di <abbr data-bdb=\"ABBR.662\">VB</abbr>), situation unknown; LXX <span class=\"greek\">Ζωοβ</span>, <span class=\"greek\">Ζοοβ</span>; so <abbr data-bdb=\"ABBR.365\">Lag<sup>BN</sup></abbr> 54 <abbr data-bdb=\"ABBR.563\">Say<sup>Ac</sup></abbr>. Oct. 22, 1892 (<span class=\"hebrew\">זָהָב</span>).</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">2053</span>]</abbr> † [<span class=\"hebrew\">וָו</span>] <b>n.[m.]</b> hook, pin or peg (etym. unknown)—<abbr data-bdb=\"ABBR.505\">pl.</abbr> abs. <span class=\"hebrew\">וָוִים</span> <a href=\"https://ref.ly/Exod38:28\">Ex 38:28</a>; cstr. <span class=\"hebrew\">וָוֵי</span> <a href=\"https://ref.ly/Exod27:10\">Ex 27:10</a> + 5 t.; <span class=\"hebrew\">וָיֵיהֶם</span> <a href=\"https://ref.ly/Exod26:32\">Ex 26:32</a> + 5 t.;—only P, in description of tabernacle <a href=\"https://ref.ly/Exod26:32\">Ex 26:32</a>, <a href=\"https://ref.ly/Exod26:37\">26:37</a>, <a href=\"https://ref.ly/Exod27:10\">27:10</a>, <a href=\"https://ref.ly/Exod27:11\">27:11</a>, <a href=\"https://ref.ly/Exod27:17\">27:17</a>, <a href=\"https://ref.ly/Exod36:36\">36:36</a>, <a href=\"https://ref.ly/Exod36:38\">36:38</a>, <a href=\"https://ref.ly/Exod38:10\">38:10</a>, <a href=\"https://ref.ly/Exod38:11\">38:11</a>, <a href=\"https://ref.ly/Exod38:12\">38:12</a>, <a href=\"https://ref.ly/Exod38:17\">38:17</a>, <a href=\"https://ref.ly/Exod38:19\">38:19</a>, <a href=\"https://ref.ly/Exod38:28\">38:28</a>, the <i>hooks</i> or <i>pegs</i> of gold and silver, fastened on, or in, the posts of the tabernacle, to support the various hangings (curtains, screens, <abbr data-bdb=\"ABBR.326\">etc.)</abbr></p></blockquote>",
+"associations": {
+"passage": [
+{
+"start_ref": "05030019",
+"start_ref_usfm": "DEU 30:19",
+"end_ref": "05030019",
+"end_ref_usfm": "DEU 30:19"
+},
+{
+"start_ref": "20023024",
+"start_ref_usfm": "PRO 23:24",
+"end_ref": "20023024",
+"end_ref_usfm": "PRO 23:24"
+},
+{
+"start_ref": "20010004",
+"start_ref_usfm": "PRO 10:4",
+"end_ref": "20010004",
+"end_ref_usfm": "PRO 10:4"
+},
+{
+"start_ref": "02021004",
+"start_ref_usfm": "EXO 21:4",
+"end_ref": "02021004",
+"end_ref_usfm": "EXO 21:4"
+},
+{
+"start_ref": "20010025",
+"start_ref_usfm": "PRO 10:25",
+"end_ref": "20010025",
+"end_ref_usfm": "PRO 10:25"
+},
+{
+"start_ref": "02023022",
+"start_ref_usfm": "EXO 23:22",
+"end_ref": "02023022",
+"end_ref_usfm": "EXO 23:22"
+},
+{
+"start_ref": "24019012",
+"start_ref_usfm": "JER 19:12",
+"end_ref": "24019012",
+"end_ref_usfm": "JER 19:12"
+},
+{
+"start_ref": "05025013",
+"start_ref_usfm": "DEU 25:13",
+"end_ref": "05025013",
+"end_ref_usfm": "DEU 25:13"
+},
+{
+"start_ref": "26027018",
+"start_ref_usfm": "EZK 27:18",
+"end_ref": "26027018",
+"end_ref_usfm": "EZK 27:18"
+},
+{
+"start_ref": "01040009",
+"start_ref_usfm": "GEN 40:9",
+"end_ref": "01040009",
+"end_ref_usfm": "GEN 40:9"
+},
+{
+"start_ref": "15010014",
+"start_ref_usfm": "EZR 10:14",
+"end_ref": "15010014",
+"end_ref_usfm": "EZR 10:14"
+},
+{
+"start_ref": "09025020",
+"start_ref_usfm": "1SA 25:20",
+"end_ref": "09025020",
+"end_ref_usfm": "1SA 25:20"
+},
+{
+"start_ref": "01004020",
+"start_ref_usfm": "GEN 4:20",
+"end_ref": "01004020",
+"end_ref_usfm": "GEN 4:20"
+},
+{
+"start_ref": "05017013",
+"start_ref_usfm": "DEU 17:13",
+"end_ref": "05017013",
+"end_ref_usfm": "DEU 17:13"
+},
+{
+"start_ref": "02036029",
+"start_ref_usfm": "EXO 36:29",
+"end_ref": "02036029",
+"end_ref_usfm": "EXO 36:29"
+},
+{
+"start_ref": "24019001",
+"start_ref_usfm": "JER 19:1",
+"end_ref": "24019001",
+"end_ref_usfm": "JER 19:1"
+},
+{
+"start_ref": "04014012",
+"start_ref_usfm": "NUM 14:12",
+"end_ref": "04014012",
+"end_ref_usfm": "NUM 14:12"
+},
+{
+"start_ref": "23057011",
+"start_ref_usfm": "ISA 57:11",
+"end_ref": "23057011",
+"end_ref_usfm": "ISA 57:11"
+},
+{
+"start_ref": "01010001",
+"start_ref_usfm": "GEN 10:1",
+"end_ref": "01010001",
+"end_ref_usfm": "GEN 10:1"
+},
+{
+"start_ref": "19045009",
+"start_ref_usfm": "PSA 45:9",
+"end_ref": "19045009",
+"end_ref_usfm": "PSA 45:9"
+},
+{
+"start_ref": "21008002",
+"start_ref_usfm": "ECC 8:2",
+"end_ref": "21008002",
+"end_ref_usfm": "ECC 8:2"
+},
+{
+"start_ref": "21002012",
+"start_ref_usfm": "ECC 2:12",
+"end_ref": "21002012",
+"end_ref_usfm": "ECC 2:12"
+},
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021018",
+"end_ref_usfm": "EXO 21:18"
+},
+{
+"start_ref": "18005007",
+"start_ref_usfm": "JOB 5:7",
+"end_ref": "18005007",
+"end_ref_usfm": "JOB 5:7"
+},
+{
+"start_ref": "01001002",
+"start_ref_usfm": "GEN 1:2",
+"end_ref": "01001002",
+"end_ref_usfm": "GEN 1:2"
+},
+{
+"start_ref": "01027008",
+"start_ref_usfm": "GEN 27:8",
+"end_ref": "01027008",
+"end_ref_usfm": "GEN 27:8"
+},
+{
+"start_ref": "01033013",
+"start_ref_usfm": "GEN 33:13",
+"end_ref": "01033013",
+"end_ref_usfm": "GEN 33:13"
+},
+{
+"start_ref": "20017003",
+"start_ref_usfm": "PRO 17:3",
+"end_ref": "20017003",
+"end_ref_usfm": "PRO 17:3"
+},
+{
+"start_ref": "20026009",
+"start_ref_usfm": "PRO 26:9",
+"end_ref": "20026009",
+"end_ref_usfm": "PRO 26:9"
+},
+{
+"start_ref": "01002009",
+"start_ref_usfm": "GEN 2:9",
+"end_ref": "01002009",
+"end_ref_usfm": "GEN 2:9"
+},
+{
+"start_ref": "09003013",
+"start_ref_usfm": "1SA 3:13",
+"end_ref": "09003013",
+"end_ref_usfm": "1SA 3:13"
+},
+{
+"start_ref": "19145013",
+"start_ref_usfm": "PSA 145:13",
+"end_ref": "19145013",
+"end_ref_usfm": "PSA 145:13"
+},
+{
+"start_ref": "38009009",
+"start_ref_usfm": "ZEC 9:9",
+"end_ref": "38009009",
+"end_ref_usfm": "ZEC 9:9"
+},
+{
+"start_ref": "01015002",
+"start_ref_usfm": "GEN 15:2",
+"end_ref": "01015002",
+"end_ref_usfm": "GEN 15:2"
+},
+{
+"start_ref": "26020031",
+"start_ref_usfm": "EZK 20:31",
+"end_ref": "26020031",
+"end_ref_usfm": "EZK 20:31"
+},
+{
+"start_ref": "39001011",
+"start_ref_usfm": "MAL 1:11",
+"end_ref": "39001011",
+"end_ref_usfm": "MAL 1:11"
+},
+{
+"start_ref": "01031044",
+"start_ref_usfm": "GEN 31:44",
+"end_ref": "01031044",
+"end_ref_usfm": "GEN 31:44"
+},
+{
+"start_ref": "01003022",
+"start_ref_usfm": "GEN 3:22",
+"end_ref": "01003022",
+"end_ref_usfm": "GEN 3:22"
+},
+{
+"start_ref": "10012008",
+"start_ref_usfm": "2SA 12:8",
+"end_ref": "10012008",
+"end_ref_usfm": "2SA 12:8"
+},
+{
+"start_ref": "30002004",
+"start_ref_usfm": "AMO 2:4",
+"end_ref": "30002004",
+"end_ref_usfm": "AMO 2:4"
+},
+{
+"start_ref": "01010002",
+"start_ref_usfm": "GEN 10:2",
+"end_ref": "01010002",
+"end_ref_usfm": "GEN 10:2"
+},
+{
+"start_ref": "16006012",
+"start_ref_usfm": "NEH 6:12",
+"end_ref": "16006012",
+"end_ref_usfm": "NEH 6:12"
+},
+{
+"start_ref": "28008006",
+"start_ref_usfm": "HOS 8:6",
+"end_ref": "28008006",
+"end_ref_usfm": "HOS 8:6"
+},
+{
+"start_ref": "02026032",
+"start_ref_usfm": "EXO 26:32",
+"end_ref": "02026032",
+"end_ref_usfm": "EXO 26:32"
+},
+{
+"start_ref": "04023019",
+"start_ref_usfm": "NUM 23:19",
+"end_ref": "04023019",
+"end_ref_usfm": "NUM 23:19"
+},
+{
+"start_ref": "23001002",
+"start_ref_usfm": "ISA 1:2",
+"end_ref": "23001002",
+"end_ref_usfm": "ISA 1:2"
+},
+{
+"start_ref": "02038019",
+"start_ref_usfm": "EXO 38:19",
+"end_ref": "02038019",
+"end_ref_usfm": "EXO 38:19"
+},
+{
+"start_ref": "18031013",
+"start_ref_usfm": "JOB 31:13",
+"end_ref": "18031013",
+"end_ref_usfm": "JOB 31:13"
+},
+{
+"start_ref": "23001001",
+"start_ref_usfm": "ISA 1:1",
+"end_ref": "23001001",
+"end_ref_usfm": "ISA 1:1"
+},
+{
+"start_ref": "19144003",
+"start_ref_usfm": "PSA 144:3",
+"end_ref": "19144003",
+"end_ref_usfm": "PSA 144:3"
+},
+{
+"start_ref": "03021014",
+"start_ref_usfm": "LEV 21:14",
+"end_ref": "03021014",
+"end_ref_usfm": "LEV 21:14"
+},
+{
+"start_ref": "01001005",
+"start_ref_usfm": "GEN 1:5",
+"end_ref": "01001005",
+"end_ref_usfm": "GEN 1:5"
+},
+{
+"start_ref": "09002022",
+"start_ref_usfm": "1SA 2:22",
+"end_ref": "09002022",
+"end_ref_usfm": "1SA 2:22"
+},
+{
+"start_ref": "07007003",
+"start_ref_usfm": "JDG 7:3",
+"end_ref": "07007003",
+"end_ref_usfm": "JDG 7:3"
+},
+{
+"start_ref": "14034013",
+"start_ref_usfm": "2CH 34:13",
+"end_ref": "14034013",
+"end_ref_usfm": "2CH 34:13"
+},
+{
+"start_ref": "23008008",
+"start_ref_usfm": "ISA 8:8",
+"end_ref": "23008008",
+"end_ref_usfm": "ISA 8:8"
+},
+{
+"start_ref": "02036036",
+"start_ref_usfm": "EXO 36:36",
+"end_ref": "02036036",
+"end_ref_usfm": "EXO 36:36"
+},
+{
+"start_ref": "18042009",
+"start_ref_usfm": "JOB 42:9",
+"end_ref": "18042009",
+"end_ref_usfm": "JOB 42:9"
+},
+{
+"start_ref": "04016005",
+"start_ref_usfm": "NUM 16:5",
+"end_ref": "04016005",
+"end_ref_usfm": "NUM 16:5"
+},
+{
+"start_ref": "09004019",
+"start_ref_usfm": "1SA 4:19",
+"end_ref": "09004019",
+"end_ref_usfm": "1SA 4:19"
+},
+{
+"start_ref": "02035022",
+"start_ref_usfm": "EXO 35:22",
+"end_ref": "02035022",
+"end_ref_usfm": "EXO 35:22"
+},
+{
+"start_ref": "21002015",
+"start_ref_usfm": "ECC 2:15",
+"end_ref": "21002015",
+"end_ref_usfm": "ECC 2:15"
+},
+{
+"start_ref": "03018005",
+"start_ref_usfm": "LEV 18:5",
+"end_ref": "03018005",
+"end_ref_usfm": "LEV 18:5"
+},
+{
+"start_ref": "02016021",
+"start_ref_usfm": "EXO 16:21",
+"end_ref": "02016021",
+"end_ref_usfm": "EXO 16:21"
+},
+{
+"start_ref": "04021015",
+"start_ref_usfm": "NUM 21:15",
+"end_ref": "04021015",
+"end_ref_usfm": "NUM 21:15"
+},
+{
+"start_ref": "23034012",
+"start_ref_usfm": "ISA 34:12",
+"end_ref": "23034012",
+"end_ref_usfm": "ISA 34:12"
+},
+{
+"start_ref": "09001012",
+"start_ref_usfm": "1SA 1:12",
+"end_ref": "09001012",
+"end_ref_usfm": "1SA 1:12"
+},
+{
+"start_ref": "01012002",
+"start_ref_usfm": "GEN 12:2",
+"end_ref": "01012002",
+"end_ref_usfm": "GEN 12:2"
+},
+{
+"start_ref": "20003009",
+"start_ref_usfm": "PRO 3:9",
+"end_ref": "20003009",
+"end_ref_usfm": "PRO 3:9"
+},
+{
+"start_ref": "02001016",
+"start_ref_usfm": "EXO 1:16",
+"end_ref": "02001016",
+"end_ref_usfm": "EXO 1:16"
+},
+{
+"start_ref": "01024035",
+"start_ref_usfm": "GEN 24:35",
+"end_ref": "01024035",
+"end_ref_usfm": "GEN 24:35"
+},
+{
+"start_ref": "06007007",
+"start_ref_usfm": "JOS 7:7",
+"end_ref": "06007007",
+"end_ref_usfm": "JOS 7:7"
+},
+{
+"start_ref": "05002030",
+"start_ref_usfm": "DEU 2:30",
+"end_ref": "05002030",
+"end_ref_usfm": "DEU 2:30"
+},
+{
+"start_ref": "01046015",
+"start_ref_usfm": "GEN 46:15",
+"end_ref": "01046015",
+"end_ref_usfm": "GEN 46:15"
+},
+{
+"start_ref": "14031019",
+"start_ref_usfm": "2CH 31:19",
+"end_ref": "14031019",
+"end_ref_usfm": "2CH 31:19"
+},
+{
+"start_ref": "23049007",
+"start_ref_usfm": "ISA 49:7",
+"end_ref": "23049007",
+"end_ref_usfm": "ISA 49:7"
+},
+{
+"start_ref": "20003012",
+"start_ref_usfm": "PRO 3:12",
+"end_ref": "20003012",
+"end_ref_usfm": "PRO 3:12"
+},
+{
+"start_ref": "30001003",
+"start_ref_usfm": "AMO 1:3",
+"end_ref": "30001003",
+"end_ref_usfm": "AMO 1:3"
+},
+{
+"start_ref": "09017038",
+"start_ref_usfm": "1SA 17:38",
+"end_ref": "09017038",
+"end_ref_usfm": "1SA 17:38"
+},
+{
+"start_ref": "19105034",
+"start_ref_usfm": "PSA 105:34",
+"end_ref": "19105034",
+"end_ref_usfm": "PSA 105:34"
+},
+{
+"start_ref": "09017040",
+"start_ref_usfm": "1SA 17:40",
+"end_ref": "09017040",
+"end_ref_usfm": "1SA 17:40"
+},
+{
+"start_ref": "05003017",
+"start_ref_usfm": "DEU 3:17",
+"end_ref": "05003017",
+"end_ref_usfm": "DEU 3:17"
+},
+{
+"start_ref": "21002011",
+"start_ref_usfm": "ECC 2:11",
+"end_ref": "21002011",
+"end_ref_usfm": "ECC 2:11"
+},
+{
+"start_ref": "09025011",
+"start_ref_usfm": "1SA 25:11",
+"end_ref": "09025011",
+"end_ref_usfm": "1SA 25:11"
+},
+{
+"start_ref": "01034021",
+"start_ref_usfm": "GEN 34:21",
+"end_ref": "01034021",
+"end_ref_usfm": "GEN 34:21"
+},
+{
+"start_ref": "01029025",
+"start_ref_usfm": "GEN 29:25",
+"end_ref": "01029025",
+"end_ref_usfm": "GEN 29:25"
+},
+{
+"start_ref": "06007024",
+"start_ref_usfm": "JOS 7:24",
+"end_ref": "06007024",
+"end_ref_usfm": "JOS 7:24"
+},
+{
+"start_ref": "12007004",
+"start_ref_usfm": "2KI 7:4",
+"end_ref": "12007004",
+"end_ref_usfm": "2KI 7:4"
+},
+{
+"start_ref": "02016007",
+"start_ref_usfm": "EXO 16:7",
+"end_ref": "02016007",
+"end_ref_usfm": "EXO 16:7"
+},
+{
+"start_ref": "27001003",
+"start_ref_usfm": "DAN 1:3",
+"end_ref": "27001003",
+"end_ref_usfm": "DAN 1:3"
+},
+{
+"start_ref": "03022024",
+"start_ref_usfm": "LEV 22:24",
+"end_ref": "03022024",
+"end_ref_usfm": "LEV 22:24"
+},
+{
+"start_ref": "02021017",
+"start_ref_usfm": "EXO 21:17",
+"end_ref": "02021017",
+"end_ref_usfm": "EXO 21:17"
+},
+{
+"start_ref": "09010009",
+"start_ref_usfm": "1SA 10:9",
+"end_ref": "09010009",
+"end_ref_usfm": "1SA 10:9"
+},
+{
+"start_ref": "01008022",
+"start_ref_usfm": "GEN 8:22",
+"end_ref": "01008022",
+"end_ref_usfm": "GEN 8:22"
+},
+{
+"start_ref": "14027005",
+"start_ref_usfm": "2CH 27:5",
+"end_ref": "14027005",
+"end_ref_usfm": "2CH 27:5"
+},
+{
+"start_ref": "10004010",
+"start_ref_usfm": "2SA 4:10",
+"end_ref": "10004010",
+"end_ref_usfm": "2SA 4:10"
+},
+{
+"start_ref": "05030013",
+"start_ref_usfm": "DEU 30:13",
+"end_ref": "05030013",
+"end_ref_usfm": "DEU 30:13"
+},
+{
+"start_ref": "01004004",
+"start_ref_usfm": "GEN 4:4",
+"end_ref": "01004004",
+"end_ref_usfm": "GEN 4:4"
+},
+{
+"start_ref": "17008011",
+"start_ref_usfm": "EST 8:11",
+"end_ref": "17008011",
+"end_ref_usfm": "EST 8:11"
+},
+{
+"start_ref": "23013020",
+"start_ref_usfm": "ISA 13:20",
+"end_ref": "23013020",
+"end_ref_usfm": "ISA 13:20"
+},
+{
+"start_ref": "01013009",
+"start_ref_usfm": "GEN 13:9",
+"end_ref": "01013009",
+"end_ref_usfm": "GEN 13:9"
+},
+{
+"start_ref": "14002003",
+"start_ref_usfm": "2CH 2:3",
+"end_ref": "14002003",
+"end_ref_usfm": "2CH 2:3"
+},
+{
+"start_ref": "10003008",
+"start_ref_usfm": "2SA 3:8",
+"end_ref": "10003008",
+"end_ref_usfm": "2SA 3:8"
+},
+{
+"start_ref": "14035015",
+"start_ref_usfm": "2CH 35:15",
+"end_ref": "14035015",
+"end_ref_usfm": "2CH 35:15"
+},
+{
+"start_ref": "02032034",
+"start_ref_usfm": "EXO 32:34",
+"end_ref": "02032034",
+"end_ref_usfm": "EXO 32:34"
+},
+{
+"start_ref": "17003014",
+"start_ref_usfm": "EST 3:14",
+"end_ref": "17003014",
+"end_ref_usfm": "EST 3:14"
+},
+{
+"start_ref": "23041020",
+"start_ref_usfm": "ISA 41:20",
+"end_ref": "23041020",
+"end_ref_usfm": "ISA 41:20"
+},
+{
+"start_ref": "12019025",
+"start_ref_usfm": "2KI 19:25",
+"end_ref": "12019025",
+"end_ref_usfm": "2KI 19:25"
+},
+{
+"start_ref": "01014019",
+"start_ref_usfm": "GEN 14:19",
+"end_ref": "01014019",
+"end_ref_usfm": "GEN 14:19"
+},
+{
+"start_ref": "01028006",
+"start_ref_usfm": "GEN 28:6",
+"end_ref": "01028006",
+"end_ref_usfm": "GEN 28:6"
+},
+{
+"start_ref": "24018004",
+"start_ref_usfm": "JER 18:4",
+"end_ref": "24018004",
+"end_ref_usfm": "JER 18:4"
+},
+{
+"start_ref": "02021016",
+"start_ref_usfm": "EXO 21:16",
+"end_ref": "02021016",
+"end_ref_usfm": "EXO 21:16"
+},
+{
+"start_ref": "23051012",
+"start_ref_usfm": "ISA 51:12",
+"end_ref": "23051012",
+"end_ref_usfm": "ISA 51:12"
+},
+{
+"start_ref": "06003003",
+"start_ref_usfm": "JOS 3:3",
+"end_ref": "06003003",
+"end_ref_usfm": "JOS 3:3"
+},
+{
+"start_ref": "11011034",
+"start_ref_usfm": "1KI 11:34",
+"end_ref": "11011034",
+"end_ref_usfm": "1KI 11:34"
+},
+{
+"start_ref": "02038011",
+"start_ref_usfm": "EXO 38:11",
+"end_ref": "02038011",
+"end_ref_usfm": "EXO 38:11"
+},
+{
+"start_ref": "10023003",
+"start_ref_usfm": "2SA 23:3",
+"end_ref": "10023003",
+"end_ref_usfm": "2SA 23:3"
+},
+{
+"start_ref": "11021013",
+"start_ref_usfm": "1KI 21:13",
+"end_ref": "11021013",
+"end_ref_usfm": "1KI 21:13"
+},
+{
+"start_ref": "17008009",
+"start_ref_usfm": "EST 8:9",
+"end_ref": "17008009",
+"end_ref_usfm": "EST 8:9"
+},
+{
+"start_ref": "27009025",
+"start_ref_usfm": "DAN 9:25",
+"end_ref": "27009025",
+"end_ref_usfm": "DAN 9:25"
+},
+{
+"start_ref": "18014007",
+"start_ref_usfm": "JOB 14:7",
+"end_ref": "18014007",
+"end_ref_usfm": "JOB 14:7"
+},
+{
+"start_ref": "04034006",
+"start_ref_usfm": "NUM 34:6",
+"end_ref": "04034006",
+"end_ref_usfm": "NUM 34:6"
+},
+{
+"start_ref": "01005032",
+"start_ref_usfm": "GEN 5:32",
+"end_ref": "01005032",
+"end_ref_usfm": "GEN 5:32"
+},
+{
+"start_ref": "32004011",
+"start_ref_usfm": "JON 4:11",
+"end_ref": "32004011",
+"end_ref_usfm": "JON 4:11"
+},
+{
+"start_ref": "05011011",
+"start_ref_usfm": "DEU 11:11",
+"end_ref": "05011011",
+"end_ref_usfm": "DEU 11:11"
+},
+{
+"start_ref": "23001013",
+"start_ref_usfm": "ISA 1:13",
+"end_ref": "23001013",
+"end_ref_usfm": "ISA 1:13"
+},
+{
+"start_ref": "26033003",
+"start_ref_usfm": "EZK 33:3",
+"end_ref": "26033003",
+"end_ref_usfm": "EZK 33:3"
+},
+{
+"start_ref": "01030027",
+"start_ref_usfm": "GEN 30:27",
+"end_ref": "01030027",
+"end_ref_usfm": "GEN 30:27"
+},
+{
+"start_ref": "28012006",
+"start_ref_usfm": "HOS 12:6",
+"end_ref": "28012006",
+"end_ref_usfm": "HOS 12:6"
+},
+{
+"start_ref": "18023003",
+"start_ref_usfm": "JOB 23:3",
+"end_ref": "18023003",
+"end_ref_usfm": "JOB 23:3"
+},
+{
+"start_ref": "17001008",
+"start_ref_usfm": "EST 1:8",
+"end_ref": "17001008",
+"end_ref_usfm": "EST 1:8"
+},
+{
+"start_ref": "23002011",
+"start_ref_usfm": "ISA 2:11",
+"end_ref": "23002011",
+"end_ref_usfm": "ISA 2:11"
+},
+{
+"start_ref": "18031016",
+"start_ref_usfm": "JOB 31:16",
+"end_ref": "18031016",
+"end_ref_usfm": "JOB 31:16"
+},
+{
+"start_ref": "03026045",
+"start_ref_usfm": "LEV 26:45",
+"end_ref": "03026045",
+"end_ref_usfm": "LEV 26:45"
+},
+{
+"start_ref": "01025001",
+"start_ref_usfm": "GEN 25:1",
+"end_ref": "01025001",
+"end_ref_usfm": "GEN 25:1"
+},
+{
+"start_ref": "07019012",
+"start_ref_usfm": "JDG 19:12",
+"end_ref": "07019012",
+"end_ref_usfm": "JDG 19:12"
+},
+{
+"start_ref": "02038012",
+"start_ref_usfm": "EXO 38:12",
+"end_ref": "02038012",
+"end_ref_usfm": "EXO 38:12"
+},
+{
+"start_ref": "07014016",
+"start_ref_usfm": "JDG 14:16",
+"end_ref": "07014016",
+"end_ref_usfm": "JDG 14:16"
+},
+{
+"start_ref": "23059007",
+"start_ref_usfm": "ISA 59:7",
+"end_ref": "23059007",
+"end_ref_usfm": "ISA 59:7"
+},
+{
+"start_ref": "23051015",
+"start_ref_usfm": "ISA 51:15",
+"end_ref": "23051015",
+"end_ref_usfm": "ISA 51:15"
+},
+{
+"start_ref": "17009028",
+"start_ref_usfm": "EST 9:28",
+"end_ref": "17009028",
+"end_ref_usfm": "EST 9:28"
+},
+{
+"start_ref": "26033025",
+"start_ref_usfm": "EZK 33:25",
+"end_ref": "26033025",
+"end_ref_usfm": "EZK 33:25"
+},
+{
+"start_ref": "01018013",
+"start_ref_usfm": "GEN 18:13",
+"end_ref": "01018013",
+"end_ref_usfm": "GEN 18:13"
+},
+{
+"start_ref": "02033010",
+"start_ref_usfm": "EXO 33:10",
+"end_ref": "02033010",
+"end_ref_usfm": "EXO 33:10"
+},
+{
+"start_ref": "23040006",
+"start_ref_usfm": "ISA 40:6",
+"end_ref": "23040006",
+"end_ref_usfm": "ISA 40:6"
+},
+{
+"start_ref": "09020010",
+"start_ref_usfm": "1SA 20:10",
+"end_ref": "09020010",
+"end_ref_usfm": "1SA 20:10"
+},
+{
+"start_ref": "01017021",
+"start_ref_usfm": "GEN 17:21",
+"end_ref": "01017021",
+"end_ref_usfm": "GEN 17:21"
+},
+{
+"start_ref": "01040016",
+"start_ref_usfm": "GEN 40:16",
+"end_ref": "01040016",
+"end_ref_usfm": "GEN 40:16"
+},
+{
+"start_ref": "02020010",
+"start_ref_usfm": "EXO 20:10",
+"end_ref": "02020010",
+"end_ref_usfm": "EXO 20:10"
+},
+{
+"start_ref": "26039015",
+"start_ref_usfm": "EZK 39:15",
+"end_ref": "26039015",
+"end_ref_usfm": "EZK 39:15"
+},
+{
+"start_ref": "01034028",
+"start_ref_usfm": "GEN 34:28",
+"end_ref": "01034028",
+"end_ref_usfm": "GEN 34:28"
+},
+{
+"start_ref": "01004012",
+"start_ref_usfm": "GEN 4:12",
+"end_ref": "01004012",
+"end_ref_usfm": "GEN 4:12"
+},
+{
+"start_ref": "23043004",
+"start_ref_usfm": "ISA 43:4",
+"end_ref": "23043004",
+"end_ref_usfm": "ISA 43:4"
+},
+{
+"start_ref": "18010008",
+"start_ref_usfm": "JOB 10:8",
+"end_ref": "18010008",
+"end_ref_usfm": "JOB 10:8"
+},
+{
+"start_ref": "23060015",
+"start_ref_usfm": "ISA 60:15",
+"end_ref": "23060015",
+"end_ref_usfm": "ISA 60:15"
+},
+{
+"start_ref": "01027034",
+"start_ref_usfm": "GEN 27:34",
+"end_ref": "01027034",
+"end_ref_usfm": "GEN 27:34"
+},
+{
+"start_ref": "17002011",
+"start_ref_usfm": "EST 2:11",
+"end_ref": "17002011",
+"end_ref_usfm": "EST 2:11"
+},
+{
+"start_ref": "09016002",
+"start_ref_usfm": "1SA 16:2",
+"end_ref": "09016002",
+"end_ref_usfm": "1SA 16:2"
+},
+{
+"start_ref": "11010007",
+"start_ref_usfm": "1KI 10:7",
+"end_ref": "11010007",
+"end_ref_usfm": "1KI 10:7"
+},
+{
+"start_ref": "01044002",
+"start_ref_usfm": "GEN 44:2",
+"end_ref": "01044002",
+"end_ref_usfm": "GEN 44:2"
+},
+{
+"start_ref": "10017017",
+"start_ref_usfm": "2SA 17:17",
+"end_ref": "10017017",
+"end_ref_usfm": "2SA 17:17"
+},
+{
+"start_ref": "25001019",
+"start_ref_usfm": "LAM 1:19",
+"end_ref": "25001019",
+"end_ref_usfm": "LAM 1:19"
+},
+{
+"start_ref": "10005008",
+"start_ref_usfm": "2SA 5:8",
+"end_ref": "10005008",
+"end_ref_usfm": "2SA 5:8"
+},
+{
+"start_ref": "18036026",
+"start_ref_usfm": "JOB 36:26",
+"end_ref": "18036026",
+"end_ref_usfm": "JOB 36:26"
+},
+{
+"start_ref": "04016018",
+"start_ref_usfm": "NUM 16:18",
+"end_ref": "04016018",
+"end_ref_usfm": "NUM 16:18"
+},
+{
+"start_ref": "01012019",
+"start_ref_usfm": "GEN 12:19",
+"end_ref": "01012019",
+"end_ref_usfm": "GEN 12:19"
+},
+{
+"start_ref": "09015023",
+"start_ref_usfm": "1SA 15:23",
+"end_ref": "09015023",
+"end_ref_usfm": "1SA 15:23"
+},
+{
+"start_ref": "02023008",
+"start_ref_usfm": "EXO 23:8",
+"end_ref": "02023008",
+"end_ref_usfm": "EXO 23:8"
+},
+{
+"start_ref": "11009020",
+"start_ref_usfm": "1KI 9:20",
+"end_ref": "11009020",
+"end_ref_usfm": "1KI 9:20"
+},
+{
+"start_ref": "11013033",
+"start_ref_usfm": "1KI 13:33",
+"end_ref": "11013033",
+"end_ref_usfm": "1KI 13:33"
+},
+{
+"start_ref": "19051018",
+"start_ref_usfm": "PSA 51:18",
+"end_ref": "19051018",
+"end_ref_usfm": "PSA 51:18"
+},
+{
+"start_ref": "20027021",
+"start_ref_usfm": "PRO 27:21",
+"end_ref": "20027021",
+"end_ref_usfm": "PRO 27:21"
+},
+{
+"start_ref": "26027019",
+"start_ref_usfm": "EZK 27:19",
+"end_ref": "26027019",
+"end_ref_usfm": "EZK 27:19"
+},
+{
+"start_ref": "10013020",
+"start_ref_usfm": "2SA 13:20",
+"end_ref": "10013020",
+"end_ref_usfm": "2SA 13:20"
+},
+{
+"start_ref": "01003016",
+"start_ref_usfm": "GEN 3:16",
+"end_ref": "01003016",
+"end_ref_usfm": "GEN 3:16"
+},
+{
+"start_ref": "02036038",
+"start_ref_usfm": "EXO 36:38",
+"end_ref": "02036038",
+"end_ref_usfm": "EXO 36:38"
+},
+{
+"start_ref": "13009027",
+"start_ref_usfm": "1CH 9:27",
+"end_ref": "13009027",
+"end_ref_usfm": "1CH 9:27"
+},
+{
+"start_ref": "24048001",
+"start_ref_usfm": "JER 48:1",
+"end_ref": "24048001",
+"end_ref_usfm": "JER 48:1"
+},
+{
+"start_ref": "01027004",
+"start_ref_usfm": "GEN 27:4",
+"end_ref": "01027004",
+"end_ref_usfm": "GEN 27:4"
+},
+{
+"start_ref": "10013026",
+"start_ref_usfm": "2SA 13:26",
+"end_ref": "10013026",
+"end_ref_usfm": "2SA 13:26"
+},
+{
+"start_ref": "01024018",
+"start_ref_usfm": "GEN 24:18",
+"end_ref": "01024018",
+"end_ref_usfm": "GEN 24:18"
+},
+{
+"start_ref": "09017048",
+"start_ref_usfm": "1SA 17:48",
+"end_ref": "09017048",
+"end_ref_usfm": "1SA 17:48"
+},
+{
+"start_ref": "18012011",
+"start_ref_usfm": "JOB 12:11",
+"end_ref": "18012011",
+"end_ref_usfm": "JOB 12:11"
+},
+{
+"start_ref": "20010003",
+"start_ref_usfm": "PRO 10:3",
+"end_ref": "20010003",
+"end_ref_usfm": "PRO 10:3"
+},
+{
+"start_ref": "24032014",
+"start_ref_usfm": "JER 32:14",
+"end_ref": "24032014",
+"end_ref_usfm": "JER 32:14"
+},
+{
+"start_ref": "01026018",
+"start_ref_usfm": "GEN 26:18",
+"end_ref": "01026018",
+"end_ref_usfm": "GEN 26:18"
+},
+{
+"start_ref": "10022041",
+"start_ref_usfm": "2SA 22:41",
+"end_ref": "10022041",
+"end_ref_usfm": "2SA 22:41"
+},
+{
+"start_ref": "07005026",
+"start_ref_usfm": "JDG 5:26",
+"end_ref": "07005026",
+"end_ref_usfm": "JDG 5:26"
+},
+{
+"start_ref": "07007022",
+"start_ref_usfm": "JDG 7:22",
+"end_ref": "07007022",
+"end_ref_usfm": "JDG 7:22"
+},
+{
+"start_ref": "02024007",
+"start_ref_usfm": "EXO 24:7",
+"end_ref": "02024007",
+"end_ref_usfm": "EXO 24:7"
+},
+{
+"start_ref": "01042010",
+"start_ref_usfm": "GEN 42:10",
+"end_ref": "01042010",
+"end_ref_usfm": "GEN 42:10"
+},
+{
+"start_ref": "24015013",
+"start_ref_usfm": "JER 15:13",
+"end_ref": "24015013",
+"end_ref_usfm": "JER 15:13"
+},
+{
+"start_ref": "03007016",
+"start_ref_usfm": "LEV 7:16",
+"end_ref": "03007016",
+"end_ref_usfm": "LEV 7:16"
+},
+{
+"start_ref": "01003005",
+"start_ref_usfm": "GEN 3:5",
+"end_ref": "01003005",
+"end_ref_usfm": "GEN 3:5"
+},
+{
+"start_ref": "11008047",
+"start_ref_usfm": "1KI 8:47",
+"end_ref": "11008047",
+"end_ref_usfm": "1KI 8:47"
+},
+{
+"start_ref": "04016016",
+"start_ref_usfm": "NUM 16:16",
+"end_ref": "04016016",
+"end_ref_usfm": "NUM 16:16"
+},
+{
+"start_ref": "09026022",
+"start_ref_usfm": "1SA 26:22",
+"end_ref": "09026022",
+"end_ref_usfm": "1SA 26:22"
+},
+{
+"start_ref": "06013027",
+"start_ref_usfm": "JOS 13:27",
+"end_ref": "06013027",
+"end_ref_usfm": "JOS 13:27"
+},
+{
+"start_ref": "19087005",
+"start_ref_usfm": "PSA 87:5",
+"end_ref": "19087005",
+"end_ref_usfm": "PSA 87:5"
+},
+{
+"start_ref": "30001013",
+"start_ref_usfm": "AMO 1:13",
+"end_ref": "30001013",
+"end_ref_usfm": "AMO 1:13"
+},
+{
+"start_ref": "01011004",
+"start_ref_usfm": "GEN 11:4",
+"end_ref": "01011004",
+"end_ref_usfm": "GEN 11:4"
+},
+{
+"start_ref": "23040030",
+"start_ref_usfm": "ISA 40:30",
+"end_ref": "23040030",
+"end_ref_usfm": "ISA 40:30"
+},
+{
+"start_ref": "24022007",
+"start_ref_usfm": "JER 22:7",
+"end_ref": "24022007",
+"end_ref_usfm": "JER 22:7"
+},
+{
+"start_ref": "01001026",
+"start_ref_usfm": "GEN 1:26",
+"end_ref": "01001026",
+"end_ref_usfm": "GEN 1:26"
+},
+{
+"start_ref": "17008017",
+"start_ref_usfm": "EST 8:17",
+"end_ref": "17008017",
+"end_ref_usfm": "EST 8:17"
+},
+{
+"start_ref": "17003004",
+"start_ref_usfm": "EST 3:4",
+"end_ref": "17003004",
+"end_ref_usfm": "EST 3:4"
+},
+{
+"start_ref": "09028003",
+"start_ref_usfm": "1SA 28:3",
+"end_ref": "09028003",
+"end_ref_usfm": "1SA 28:3"
+},
+{
+"start_ref": "05025014",
+"start_ref_usfm": "DEU 25:14",
+"end_ref": "05025014",
+"end_ref_usfm": "DEU 25:14"
+},
+{
+"start_ref": "06009023",
+"start_ref_usfm": "JOS 9:23",
+"end_ref": "06009023",
+"end_ref_usfm": "JOS 9:23"
+},
+{
+"start_ref": "17001022",
+"start_ref_usfm": "EST 1:22",
+"end_ref": "17001022",
+"end_ref_usfm": "EST 1:22"
+},
+{
+"start_ref": "01019019",
+"start_ref_usfm": "GEN 19:19",
+"end_ref": "01019019",
+"end_ref_usfm": "GEN 19:19"
+},
+{
+"start_ref": "23044028",
+"start_ref_usfm": "ISA 44:28",
+"end_ref": "23044028",
+"end_ref_usfm": "ISA 44:28"
+},
+{
+"start_ref": "24025029",
+"start_ref_usfm": "JER 25:29",
+"end_ref": "24025029",
+"end_ref_usfm": "JER 25:29"
+},
+{
+"start_ref": "11018010",
+"start_ref_usfm": "1KI 18:10",
+"end_ref": "11018010",
+"end_ref_usfm": "1KI 18:10"
+},
+{
+"start_ref": "20020023",
+"start_ref_usfm": "PRO 20:23",
+"end_ref": "20020023",
+"end_ref_usfm": "PRO 20:23"
+},
+{
+"start_ref": "01032031",
+"start_ref_usfm": "GEN 32:31",
+"end_ref": "01032031",
+"end_ref_usfm": "GEN 32:31"
+},
+{
+"start_ref": "23042005",
+"start_ref_usfm": "ISA 42:5",
+"end_ref": "23042005",
+"end_ref_usfm": "ISA 42:5"
+},
+{
+"start_ref": "06015012",
+"start_ref_usfm": "JOS 15:12",
+"end_ref": "06015012",
+"end_ref_usfm": "JOS 15:12"
+},
+{
+"start_ref": "07016015",
+"start_ref_usfm": "JDG 16:15",
+"end_ref": "07016015",
+"end_ref_usfm": "JDG 16:15"
+},
+{
+"start_ref": "14019005",
+"start_ref_usfm": "2CH 19:5",
+"end_ref": "14019005",
+"end_ref_usfm": "2CH 19:5"
+},
+{
+"start_ref": "03022023",
+"start_ref_usfm": "LEV 22:23",
+"end_ref": "03022023",
+"end_ref_usfm": "LEV 22:23"
+},
+{
+"start_ref": "23009004",
+"start_ref_usfm": "ISA 9:4",
+"end_ref": "23009004",
+"end_ref_usfm": "ISA 9:4"
+},
+{
+"start_ref": "02014001",
+"start_ref_usfm": "EXO 14:1",
+"end_ref": "02014001",
+"end_ref_usfm": "EXO 14:1"
+},
+{
+"start_ref": "04014031",
+"start_ref_usfm": "NUM 14:31",
+"end_ref": "04014031",
+"end_ref_usfm": "NUM 14:31"
+},
+{
+"start_ref": "14028025",
+"start_ref_usfm": "2CH 28:25",
+"end_ref": "14028025",
+"end_ref_usfm": "2CH 28:25"
+},
+{
+"start_ref": "09006005",
+"start_ref_usfm": "1SA 6:5",
+"end_ref": "09006005",
+"end_ref_usfm": "1SA 6:5"
+},
+{
+"start_ref": "02038017",
+"start_ref_usfm": "EXO 38:17",
+"end_ref": "02038017",
+"end_ref_usfm": "EXO 38:17"
+},
+{
+"start_ref": "01020003",
+"start_ref_usfm": "GEN 20:3",
+"end_ref": "01020003",
+"end_ref_usfm": "GEN 20:3"
+},
+{
+"start_ref": "23025009",
+"start_ref_usfm": "ISA 25:9",
+"end_ref": "23025009",
+"end_ref_usfm": "ISA 25:9"
+},
+{
+"start_ref": "19059016",
+"start_ref_usfm": "PSA 59:16",
+"end_ref": "19059016",
+"end_ref_usfm": "PSA 59:16"
+},
+{
+"start_ref": "04016010",
+"start_ref_usfm": "NUM 16:10",
+"end_ref": "04016010",
+"end_ref_usfm": "NUM 16:10"
+},
+{
+"start_ref": "06013023",
+"start_ref_usfm": "JOS 13:23",
+"end_ref": "06013023",
+"end_ref_usfm": "JOS 13:23"
+},
+{
+"start_ref": "02026037",
+"start_ref_usfm": "EXO 26:37",
+"end_ref": "02026037",
+"end_ref_usfm": "EXO 26:37"
+},
+{
+"start_ref": "24048003",
+"start_ref_usfm": "JER 48:3",
+"end_ref": "24048003",
+"end_ref_usfm": "JER 48:3"
+},
+{
+"start_ref": "27009027",
+"start_ref_usfm": "DAN 9:27",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "24045005",
+"start_ref_usfm": "JER 45:5",
+"end_ref": "24045005",
+"end_ref_usfm": "JER 45:5"
+},
+{
+"start_ref": "19076007",
+"start_ref_usfm": "PSA 76:7",
+"end_ref": "19076007",
+"end_ref_usfm": "PSA 76:7"
+},
+{
+"start_ref": "09005007",
+"start_ref_usfm": "1SA 5:7",
+"end_ref": "09005007",
+"end_ref_usfm": "1SA 5:7"
+},
+{
+"start_ref": "21001017",
+"start_ref_usfm": "ECC 1:17",
+"end_ref": "21001017",
+"end_ref_usfm": "ECC 1:17"
+},
+{
+"start_ref": "02027011",
+"start_ref_usfm": "EXO 27:11",
+"end_ref": "02027011",
+"end_ref_usfm": "EXO 27:11"
+},
+{
+"start_ref": "01034005",
+"start_ref_usfm": "GEN 34:5",
+"end_ref": "01034005",
+"end_ref_usfm": "GEN 34:5"
+},
+{
+"start_ref": "13028014",
+"start_ref_usfm": "1CH 28:14",
+"end_ref": "13028014",
+"end_ref_usfm": "1CH 28:14"
+},
+{
+"start_ref": "11013031",
+"start_ref_usfm": "1KI 13:31",
+"end_ref": "11013031",
+"end_ref_usfm": "1KI 13:31"
+},
+{
+"start_ref": "20026014",
+"start_ref_usfm": "PRO 26:14",
+"end_ref": "20026014",
+"end_ref_usfm": "PRO 26:14"
+},
+{
+"start_ref": "01002019",
+"start_ref_usfm": "GEN 2:19",
+"end_ref": "01002019",
+"end_ref_usfm": "GEN 2:19"
+},
+{
+"start_ref": "09006006",
+"start_ref_usfm": "1SA 6:6",
+"end_ref": "09006006",
+"end_ref_usfm": "1SA 6:6"
+},
+{
+"start_ref": "23048016",
+"start_ref_usfm": "ISA 48:16",
+"end_ref": "23048016",
+"end_ref_usfm": "ISA 48:16"
+},
+{
+"start_ref": "28004006",
+"start_ref_usfm": "HOS 4:6",
+"end_ref": "28004006",
+"end_ref_usfm": "HOS 4:6"
+},
+{
+"start_ref": "13020002",
+"start_ref_usfm": "1CH 20:2",
+"end_ref": "13020002",
+"end_ref_usfm": "1CH 20:2"
+},
+{
+"start_ref": "24040008",
+"start_ref_usfm": "JER 40:8",
+"end_ref": "24040008",
+"end_ref_usfm": "JER 40:8"
+},
+{
+"start_ref": "20026020",
+"start_ref_usfm": "PRO 26:20",
+"end_ref": "20026020",
+"end_ref_usfm": "PRO 26:20"
+},
+{
+"start_ref": "20004008",
+"start_ref_usfm": "PRO 4:8",
+"end_ref": "20004008",
+"end_ref_usfm": "PRO 4:8"
+},
+{
+"start_ref": "07013008",
+"start_ref_usfm": "JDG 13:8",
+"end_ref": "07013008",
+"end_ref_usfm": "JDG 13:8"
+},
+{
+"start_ref": "19002010",
+"start_ref_usfm": "PSA 2:10",
+"end_ref": "19002010",
+"end_ref_usfm": "PSA 2:10"
+},
+{
+"start_ref": "29004020",
+"start_ref_usfm": "JOL 4:20",
+"end_ref": "29004020",
+"end_ref_usfm": "JOL 4:20"
+},
+{
+"start_ref": "12004041",
+"start_ref_usfm": "2KI 4:41",
+"end_ref": "12004041",
+"end_ref_usfm": "2KI 4:41"
+},
+{
+"start_ref": "17004003",
+"start_ref_usfm": "EST 4:3",
+"end_ref": "17004003",
+"end_ref_usfm": "EST 4:3"
+},
+{
+"start_ref": "26018032",
+"start_ref_usfm": "EZK 18:32",
+"end_ref": "26018032",
+"end_ref_usfm": "EZK 18:32"
+},
+{
+"start_ref": "24017010",
+"start_ref_usfm": "JER 17:10",
+"end_ref": "24017010",
+"end_ref_usfm": "JER 17:10"
+},
+{
+"start_ref": "27008010",
+"start_ref_usfm": "DAN 8:10",
+"end_ref": "27008010",
+"end_ref_usfm": "DAN 8:10"
+},
+{
+"start_ref": "16012028",
+"start_ref_usfm": "NEH 12:28",
+"end_ref": "16012028",
+"end_ref_usfm": "NEH 12:28"
+},
+{
+"start_ref": "23028013",
+"start_ref_usfm": "ISA 28:13",
+"end_ref": "23028013",
+"end_ref_usfm": "ISA 28:13"
+},
+{
+"start_ref": "09012008",
+"start_ref_usfm": "1SA 12:8",
+"end_ref": "09012008",
+"end_ref_usfm": "1SA 12:8"
+},
+{
+"start_ref": "18034029",
+"start_ref_usfm": "JOB 34:29",
+"end_ref": "18034029",
+"end_ref_usfm": "JOB 34:29"
+},
+{
+"start_ref": "20030018",
+"start_ref_usfm": "PRO 30:18",
+"end_ref": "20030018",
+"end_ref_usfm": "PRO 30:18"
+},
+{
+"start_ref": "21004001",
+"start_ref_usfm": "ECC 4:1",
+"end_ref": "21004001",
+"end_ref_usfm": "ECC 4:1"
+},
+{
+"start_ref": "01042038",
+"start_ref_usfm": "GEN 42:38",
+"end_ref": "01042038",
+"end_ref_usfm": "GEN 42:38"
+},
+{
+"start_ref": "01001024",
+"start_ref_usfm": "GEN 1:24",
+"end_ref": "01001024",
+"end_ref_usfm": "GEN 1:24"
+},
+{
+"start_ref": "09012002",
+"start_ref_usfm": "1SA 12:2",
+"end_ref": "09012002",
+"end_ref_usfm": "1SA 12:2"
+},
+{
+"start_ref": "21005002",
+"start_ref_usfm": "ECC 5:2",
+"end_ref": "21005002",
+"end_ref_usfm": "ECC 5:2"
+},
+{
+"start_ref": "23005029",
+"start_ref_usfm": "ISA 5:29",
+"end_ref": "23005029",
+"end_ref_usfm": "ISA 5:29"
+},
+{
+"start_ref": "33005004",
+"start_ref_usfm": "MIC 5:4",
+"end_ref": "33005004",
+"end_ref_usfm": "MIC 5:4"
+},
+{
+"start_ref": "04021020",
+"start_ref_usfm": "NUM 21:20",
+"end_ref": "04021020",
+"end_ref_usfm": "NUM 21:20"
+},
+{
+"start_ref": "02002012",
+"start_ref_usfm": "EXO 2:12",
+"end_ref": "02002012",
+"end_ref_usfm": "EXO 2:12"
+},
+{
+"start_ref": "19019005",
+"start_ref_usfm": "PSA 19:5",
+"end_ref": "19019005",
+"end_ref_usfm": "PSA 19:5"
+},
+{
+"start_ref": "18005009",
+"start_ref_usfm": "JOB 5:9",
+"end_ref": "18005009",
+"end_ref_usfm": "JOB 5:9"
+},
+{
+"start_ref": "17003012",
+"start_ref_usfm": "EST 3:12",
+"end_ref": "17003012",
+"end_ref_usfm": "EST 3:12"
+},
+{
+"start_ref": "01009027",
+"start_ref_usfm": "GEN 9:27",
+"end_ref": "01009027",
+"end_ref_usfm": "GEN 9:27"
+},
+{
+"start_ref": "02005005",
+"start_ref_usfm": "EXO 5:5",
+"end_ref": "02005005",
+"end_ref_usfm": "EXO 5:5"
+},
+{
+"start_ref": "11020028",
+"start_ref_usfm": "1KI 20:28",
+"end_ref": "11020028",
+"end_ref_usfm": "1KI 20:28"
+},
+{
+"start_ref": "19055013",
+"start_ref_usfm": "PSA 55:13",
+"end_ref": "19055013",
+"end_ref_usfm": "PSA 55:13"
+},
+{
+"start_ref": "18014019",
+"start_ref_usfm": "JOB 14:19",
+"end_ref": "18014019",
+"end_ref_usfm": "JOB 14:19"
+},
+{
+"start_ref": "23065017",
+"start_ref_usfm": "ISA 65:17",
+"end_ref": "23065017",
+"end_ref_usfm": "ISA 65:17"
+},
+{
+"start_ref": "05018010",
+"start_ref_usfm": "DEU 18:10",
+"end_ref": "05018010",
+"end_ref_usfm": "DEU 18:10"
+},
+{
+"start_ref": "21005006",
+"start_ref_usfm": "ECC 5:6",
+"end_ref": "21005006",
+"end_ref_usfm": "ECC 5:6"
+},
+{
+"start_ref": "21004007",
+"start_ref_usfm": "ECC 4:7",
+"end_ref": "21004007",
+"end_ref_usfm": "ECC 4:7"
+},
+{
+"start_ref": "23003016",
+"start_ref_usfm": "ISA 3:16",
+"end_ref": "23003016",
+"end_ref_usfm": "ISA 3:16"
+},
+{
+"start_ref": "23032007",
+"start_ref_usfm": "ISA 32:7",
+"end_ref": "23032007",
+"end_ref_usfm": "ISA 32:7"
+},
+{
+"start_ref": "01030028",
+"start_ref_usfm": "GEN 30:28",
+"end_ref": "01030028",
+"end_ref_usfm": "GEN 30:28"
+},
+{
+"start_ref": "01002017",
+"start_ref_usfm": "GEN 2:17",
+"end_ref": "01002017",
+"end_ref_usfm": "GEN 2:17"
+},
+{
+"start_ref": "16008013",
+"start_ref_usfm": "NEH 8:13",
+"end_ref": "16008013",
+"end_ref_usfm": "NEH 8:13"
+},
+{
+"start_ref": "01012017",
+"start_ref_usfm": "GEN 12:17",
+"end_ref": "01012017",
+"end_ref_usfm": "GEN 12:17"
+},
+{
+"start_ref": "09019003",
+"start_ref_usfm": "1SA 19:3",
+"end_ref": "09019003",
+"end_ref_usfm": "1SA 19:3"
+},
+{
+"start_ref": "01047006",
+"start_ref_usfm": "GEN 47:6",
+"end_ref": "01047006",
+"end_ref_usfm": "GEN 47:6"
+},
+{
+"start_ref": "19069033",
+"start_ref_usfm": "PSA 69:33",
+"end_ref": "19069033",
+"end_ref_usfm": "PSA 69:33"
+},
+{
+"start_ref": "18004006",
+"start_ref_usfm": "JOB 4:6",
+"end_ref": "18004006",
+"end_ref_usfm": "JOB 4:6"
+},
+{
+"start_ref": "14008014",
+"start_ref_usfm": "2CH 8:14",
+"end_ref": "14008014",
+"end_ref_usfm": "2CH 8:14"
+},
+{
+"start_ref": "05004015",
+"start_ref_usfm": "DEU 4:15",
+"end_ref": "05004015",
+"end_ref_usfm": "DEU 4:15"
+},
+{
+"start_ref": "02027010",
+"start_ref_usfm": "EXO 27:10",
+"end_ref": "02027010",
+"end_ref_usfm": "EXO 27:10"
+},
+{
+"start_ref": "02010017",
+"start_ref_usfm": "EXO 10:17",
+"end_ref": "02010017",
+"end_ref_usfm": "EXO 10:17"
+},
+{
+"start_ref": "17002012",
+"start_ref_usfm": "EST 2:12",
+"end_ref": "17002012",
+"end_ref_usfm": "EST 2:12"
+},
+{
+"start_ref": "02012015",
+"start_ref_usfm": "EXO 12:15",
+"end_ref": "02012015",
+"end_ref_usfm": "EXO 12:15"
+},
+{
+"start_ref": "20006016",
+"start_ref_usfm": "PRO 6:16",
+"end_ref": "20006016",
+"end_ref_usfm": "PRO 6:16"
+},
+{
+"start_ref": "19104025",
+"start_ref_usfm": "PSA 104:25",
+"end_ref": "19104025",
+"end_ref_usfm": "PSA 104:25"
+},
+{
+"start_ref": "23008007",
+"start_ref_usfm": "ISA 8:7",
+"end_ref": "23008007",
+"end_ref_usfm": "ISA 8:7"
+},
+{
+"start_ref": "02010008",
+"start_ref_usfm": "EXO 10:8",
+"end_ref": "02010008",
+"end_ref_usfm": "EXO 10:8"
+},
+{
+"start_ref": "09012015",
+"start_ref_usfm": "1SA 12:15",
+"end_ref": "09012015",
+"end_ref_usfm": "1SA 12:15"
+},
+{
+"start_ref": "14032028",
+"start_ref_usfm": "2CH 32:28",
+"end_ref": "14032028",
+"end_ref_usfm": "2CH 32:28"
+},
+{
+"start_ref": "11002022",
+"start_ref_usfm": "1KI 2:22",
+"end_ref": "11002022",
+"end_ref_usfm": "1KI 2:22"
+},
+{
+"start_ref": "01026027",
+"start_ref_usfm": "GEN 26:27",
+"end_ref": "01026027",
+"end_ref_usfm": "GEN 26:27"
+},
+{
+"start_ref": "24029023",
+"start_ref_usfm": "JER 29:23",
+"end_ref": "24029023",
+"end_ref_usfm": "JER 29:23"
+},
+{
+"start_ref": "05007009",
+"start_ref_usfm": "DEU 7:9",
+"end_ref": "05007009",
+"end_ref_usfm": "DEU 7:9"
+},
+{
+"start_ref": "04009014",
+"start_ref_usfm": "NUM 9:14",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "20010002",
+"start_ref_usfm": "PRO 10:2",
+"end_ref": "20010002",
+"end_ref_usfm": "PRO 10:2"
+},
+{
+"start_ref": "02038010",
+"start_ref_usfm": "EXO 38:10",
+"end_ref": "02038010",
+"end_ref_usfm": "EXO 38:10"
+},
+{
+"start_ref": "02016006",
+"start_ref_usfm": "EXO 16:6",
+"end_ref": "02016006",
+"end_ref_usfm": "EXO 16:6"
+},
+{
+"start_ref": "23006001",
+"start_ref_usfm": "ISA 6:1",
+"end_ref": "23006001",
+"end_ref_usfm": "ISA 6:1"
+},
+{
+"start_ref": "20025020",
+"start_ref_usfm": "PRO 25:20",
+"end_ref": "20025020",
+"end_ref_usfm": "PRO 25:20"
+},
+{
+"start_ref": "06003013",
+"start_ref_usfm": "JOS 3:13",
+"end_ref": "06003013",
+"end_ref_usfm": "JOS 3:13"
+},
+{
+"start_ref": "02004014",
+"start_ref_usfm": "EXO 4:14",
+"end_ref": "02004014",
+"end_ref_usfm": "EXO 4:14"
+},
+{
+"start_ref": "23026019",
+"start_ref_usfm": "ISA 26:19",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
+},
+{
+"start_ref": "09025042",
+"start_ref_usfm": "1SA 25:42",
+"end_ref": "09025042",
+"end_ref_usfm": "1SA 25:42"
+},
+{
+"start_ref": "02019005",
+"start_ref_usfm": "EXO 19:5",
+"end_ref": "02019005",
+"end_ref_usfm": "EXO 19:5"
+},
+{
+"start_ref": "30001011",
+"start_ref_usfm": "AMO 1:11",
+"end_ref": "30001011",
+"end_ref_usfm": "AMO 1:11"
+},
+{
+"start_ref": "02002020",
+"start_ref_usfm": "EXO 2:20",
+"end_ref": "02002020",
+"end_ref_usfm": "EXO 2:20"
+},
+{
+"start_ref": "01004005",
+"start_ref_usfm": "GEN 4:5",
+"end_ref": "01004005",
+"end_ref_usfm": "GEN 4:5"
+},
+{
+"start_ref": "23055002",
+"start_ref_usfm": "ISA 55:2",
+"end_ref": "23055002",
+"end_ref_usfm": "ISA 55:2"
+},
+{
+"start_ref": "02008022",
+"start_ref_usfm": "EXO 8:22",
+"end_ref": "02008022",
+"end_ref_usfm": "EXO 8:22"
+},
+{
+"start_ref": "20004004",
+"start_ref_usfm": "PRO 4:4",
+"end_ref": "20004004",
+"end_ref_usfm": "PRO 4:4"
+},
+{
+"start_ref": "23056006",
+"start_ref_usfm": "ISA 56:6",
+"end_ref": "23056006",
+"end_ref_usfm": "ISA 56:6"
+},
+{
+"start_ref": "09015014",
+"start_ref_usfm": "1SA 15:14",
+"end_ref": "09015014",
+"end_ref_usfm": "1SA 15:14"
+},
+{
+"start_ref": "18005019",
+"start_ref_usfm": "JOB 5:19",
+"end_ref": "18005019",
+"end_ref_usfm": "JOB 5:19"
+},
+{
+"start_ref": "19072012",
+"start_ref_usfm": "PSA 72:12",
+"end_ref": "19072012",
+"end_ref_usfm": "PSA 72:12"
+},
+{
+"start_ref": "02032027",
+"start_ref_usfm": "EXO 32:27",
+"end_ref": "02032027",
+"end_ref_usfm": "EXO 32:27"
+},
+{
+"start_ref": "01022017",
+"start_ref_usfm": "GEN 22:17",
+"end_ref": "01022017",
+"end_ref_usfm": "GEN 22:17"
+},
+{
+"start_ref": "02009021",
+"start_ref_usfm": "EXO 9:21",
+"end_ref": "02009021",
+"end_ref_usfm": "EXO 9:21"
+},
+{
+"start_ref": "10012030",
+"start_ref_usfm": "2SA 12:30",
+"end_ref": "10012030",
+"end_ref_usfm": "2SA 12:30"
+},
+{
+"start_ref": "23045004",
+"start_ref_usfm": "ISA 45:4",
+"end_ref": "23045004",
+"end_ref_usfm": "ISA 45:4"
+},
+{
+"start_ref": "23014022",
+"start_ref_usfm": "ISA 14:22",
+"end_ref": "23014022",
+"end_ref_usfm": "ISA 14:22"
+},
+{
+"start_ref": "11003011",
+"start_ref_usfm": "1KI 3:11",
+"end_ref": "11003011",
+"end_ref_usfm": "1KI 3:11"
+},
+{
+"start_ref": "17008006",
+"start_ref_usfm": "EST 8:6",
+"end_ref": "17008006",
+"end_ref_usfm": "EST 8:6"
+},
+{
+"start_ref": "01029015",
+"start_ref_usfm": "GEN 29:15",
+"end_ref": "01029015",
+"end_ref_usfm": "GEN 29:15"
+},
+{
+"start_ref": "24005028",
+"start_ref_usfm": "JER 5:28",
+"end_ref": "24005028",
+"end_ref_usfm": "JER 5:28"
+},
+{
+"start_ref": "01001016",
+"start_ref_usfm": "GEN 1:16",
+"end_ref": "01001016",
+"end_ref_usfm": "GEN 1:16"
+},
+{
+"start_ref": "01016018",
+"start_ref_usfm": "GEN 16:18",
+"end_ref": "01016018",
+"end_ref_usfm": "GEN 16:18"
+},
+{
+"start_ref": "11019019",
+"start_ref_usfm": "1KI 19:19",
+"end_ref": "11019019",
+"end_ref_usfm": "1KI 19:19"
+},
+{
+"start_ref": "09025027",
+"start_ref_usfm": "1SA 25:27",
+"end_ref": "09025027",
+"end_ref_usfm": "1SA 25:27"
+},
+{
+"start_ref": "11011032",
+"start_ref_usfm": "1KI 11:32",
+"end_ref": "11011032",
+"end_ref_usfm": "1KI 11:32"
+},
+{
+"start_ref": "14011012",
+"start_ref_usfm": "2CH 11:12",
+"end_ref": "14011012",
+"end_ref_usfm": "2CH 11:12"
+},
+{
+"start_ref": "05030012",
+"start_ref_usfm": "DEU 30:12",
+"end_ref": "05030012",
+"end_ref_usfm": "DEU 30:12"
+},
+{
+"start_ref": "02020017",
+"start_ref_usfm": "EXO 20:17",
+"end_ref": "02020017",
+"end_ref_usfm": "EXO 20:17"
+},
+{
+"start_ref": "06015046",
+"start_ref_usfm": "JOS 15:46",
+"end_ref": "06015046",
+"end_ref_usfm": "JOS 15:46"
+},
+{
+"start_ref": "01001009",
+"start_ref_usfm": "GEN 1:9",
+"end_ref": "01001009",
+"end_ref_usfm": "GEN 1:9"
+},
+{
+"start_ref": "09029010",
+"start_ref_usfm": "1SA 29:10",
+"end_ref": "09029010",
+"end_ref_usfm": "1SA 29:10"
+},
+{
+"start_ref": "18032014",
+"start_ref_usfm": "JOB 32:14",
+"end_ref": "18032014",
+"end_ref_usfm": "JOB 32:14"
+},
+{
+"start_ref": "01042018",
+"start_ref_usfm": "GEN 42:18",
+"end_ref": "01042018",
+"end_ref_usfm": "GEN 42:18"
+},
+{
+"start_ref": "20029009",
+"start_ref_usfm": "PRO 29:9",
+"end_ref": "20029009",
+"end_ref_usfm": "PRO 29:9"
+},
+{
+"start_ref": "04024024",
+"start_ref_usfm": "NUM 24:24",
+"end_ref": "04024024",
+"end_ref_usfm": "NUM 24:24"
+},
+{
+"start_ref": "01021025",
+"start_ref_usfm": "GEN 21:25",
+"end_ref": "01021025",
+"end_ref_usfm": "GEN 21:25"
+},
+{
+"start_ref": "10014010",
+"start_ref_usfm": "2SA 14:10",
+"end_ref": "10014010",
+"end_ref_usfm": "2SA 14:10"
+},
+{
+"start_ref": "04016027",
+"start_ref_usfm": "NUM 16:27",
+"end_ref": "04016027",
+"end_ref_usfm": "NUM 16:27"
+},
+{
+"start_ref": "27008013",
+"start_ref_usfm": "DAN 8:13",
+"end_ref": "27008013",
+"end_ref_usfm": "DAN 8:13"
+},
+{
+"start_ref": "24032029",
+"start_ref_usfm": "JER 32:29",
+"end_ref": "24032029",
+"end_ref_usfm": "JER 32:29"
+},
+{
+"start_ref": "30001009",
+"start_ref_usfm": "AMO 1:9",
+"end_ref": "30001009",
+"end_ref_usfm": "AMO 1:9"
+},
+{
+"start_ref": "09025043",
+"start_ref_usfm": "1SA 25:43",
+"end_ref": "09025043",
+"end_ref_usfm": "1SA 25:43"
+},
+{
+"start_ref": "02016034",
+"start_ref_usfm": "EXO 16:34",
+"end_ref": "02016034",
+"end_ref_usfm": "EXO 16:34"
+},
+{
+"start_ref": "23005014",
+"start_ref_usfm": "ISA 5:14",
+"end_ref": "23005014",
+"end_ref_usfm": "ISA 5:14"
+},
+{
+"start_ref": "19089038",
+"start_ref_usfm": "PSA 89:38",
+"end_ref": "19089038",
+"end_ref_usfm": "PSA 89:38"
+},
+{
+"start_ref": "21009011",
+"start_ref_usfm": "ECC 9:11",
+"end_ref": "21009011",
+"end_ref_usfm": "ECC 9:11"
+},
+{
+"start_ref": "01037018",
+"start_ref_usfm": "GEN 37:18",
+"end_ref": "01037018",
+"end_ref_usfm": "GEN 37:18"
+},
+{
+"start_ref": "20030029",
+"start_ref_usfm": "PRO 30:29",
+"end_ref": "20030029",
+"end_ref_usfm": "PRO 30:29"
+},
+{
+"start_ref": "20010001",
+"start_ref_usfm": "PRO 10:1",
+"end_ref": "20010001",
+"end_ref_usfm": "PRO 10:1"
+},
+{
+"start_ref": "19050021",
+"start_ref_usfm": "PSA 50:21",
+"end_ref": "19050021",
+"end_ref_usfm": "PSA 50:21"
+},
+{
+"start_ref": "04016002",
+"start_ref_usfm": "NUM 16:2",
+"end_ref": "04016002",
+"end_ref_usfm": "NUM 16:2"
+},
+{
+"start_ref": "28011001",
+"start_ref_usfm": "HOS 11:1",
+"end_ref": "28011001",
+"end_ref_usfm": "HOS 11:1"
+},
+{
+"start_ref": "09017034",
+"start_ref_usfm": "1SA 17:34",
+"end_ref": "09017034",
+"end_ref_usfm": "1SA 17:34"
+},
+{
+"start_ref": "13026013",
+"start_ref_usfm": "1CH 26:13",
+"end_ref": "13026013",
+"end_ref_usfm": "1CH 26:13"
+},
+{
+"start_ref": "02031014",
+"start_ref_usfm": "EXO 31:14",
+"end_ref": "02031014",
+"end_ref_usfm": "EXO 31:14"
+},
+{
+"start_ref": "10021003",
+"start_ref_usfm": "2SA 21:3",
+"end_ref": "10021003",
+"end_ref_usfm": "2SA 21:3"
+},
+{
+"start_ref": "01038005",
+"start_ref_usfm": "GEN 38:5",
+"end_ref": "01038005",
+"end_ref_usfm": "GEN 38:5"
+},
+{
+"start_ref": "23009007",
+"start_ref_usfm": "ISA 9:7",
+"end_ref": "23009007",
+"end_ref_usfm": "ISA 9:7"
+},
+{
+"start_ref": "20026003",
+"start_ref_usfm": "PRO 26:3",
+"end_ref": "20026003",
+"end_ref_usfm": "PRO 26:3"
+},
+{
+"start_ref": "07013009",
+"start_ref_usfm": "JDG 13:9",
+"end_ref": "07013009",
+"end_ref_usfm": "JDG 13:9"
+},
+{
+"start_ref": "24013014",
+"start_ref_usfm": "JER 13:14",
+"end_ref": "24013014",
+"end_ref_usfm": "JER 13:14"
+},
+{
+"start_ref": "18020018",
+"start_ref_usfm": "JOB 20:18",
+"end_ref": "18020018",
+"end_ref_usfm": "JOB 20:18"
+},
+{
+"start_ref": "19010015",
+"start_ref_usfm": "PSA 10:15",
+"end_ref": "19010015",
+"end_ref_usfm": "PSA 10:15"
+},
+{
+"start_ref": "21008008",
+"start_ref_usfm": "ECC 8:8",
+"end_ref": "21008008",
+"end_ref_usfm": "ECC 8:8"
+},
+{
+"start_ref": "10016013",
+"start_ref_usfm": "2SA 16:13",
+"end_ref": "10016013",
+"end_ref_usfm": "2SA 16:13"
+},
+{
+"start_ref": "18025005",
+"start_ref_usfm": "JOB 25:5",
+"end_ref": "18025005",
+"end_ref_usfm": "JOB 25:5"
+},
+{
+"start_ref": "19073014",
+"start_ref_usfm": "PSA 73:14",
+"end_ref": "19073014",
+"end_ref_usfm": "PSA 73:14"
+},
+{
+"start_ref": "09027009",
+"start_ref_usfm": "1SA 27:9",
+"end_ref": "09027009",
+"end_ref_usfm": "1SA 27:9"
+},
+{
+"start_ref": "01007021",
+"start_ref_usfm": "GEN 7:21",
+"end_ref": "01007021",
+"end_ref_usfm": "GEN 7:21"
+},
+{
+"start_ref": "01044022",
+"start_ref_usfm": "GEN 44:22",
+"end_ref": "01044022",
+"end_ref_usfm": "GEN 44:22"
+},
+{
+"start_ref": "04021014",
+"start_ref_usfm": "NUM 21:14",
+"end_ref": "04021014",
+"end_ref_usfm": "NUM 21:14"
+},
+{
+"start_ref": "28010010",
+"start_ref_usfm": "HOS 10:10",
+"end_ref": "28010010",
+"end_ref_usfm": "HOS 10:10"
+},
+{
+"start_ref": "02038028",
+"start_ref_usfm": "EXO 38:28",
+"end_ref": "02038028",
+"end_ref_usfm": "EXO 38:28"
+},
+{
+"start_ref": "04010017",
+"start_ref_usfm": "NUM 10:17",
+"end_ref": "04010017",
+"end_ref_usfm": "NUM 10:17"
+},
+{
+"start_ref": "10015010",
+"start_ref_usfm": "2SA 15:10",
+"end_ref": "10015010",
+"end_ref_usfm": "2SA 15:10"
+},
+{
+"start_ref": "01044009",
+"start_ref_usfm": "GEN 44:9",
+"end_ref": "01044009",
+"end_ref_usfm": "GEN 44:9"
+},
+{
+"start_ref": "11015013",
+"start_ref_usfm": "1KI 15:13",
+"end_ref": "11015013",
+"end_ref_usfm": "1KI 15:13"
+},
+{
+"start_ref": "02027017",
+"start_ref_usfm": "EXO 27:17",
+"end_ref": "02027017",
+"end_ref_usfm": "EXO 27:17"
+},
+{
+"start_ref": "05002004",
+"start_ref_usfm": "DEU 2:4",
+"end_ref": "05002004",
+"end_ref_usfm": "DEU 2:4"
+},
+{
+"start_ref": "11015014",
+"start_ref_usfm": "1KI 15:14",
+"end_ref": "11015014",
+"end_ref_usfm": "1KI 15:14"
+},
+{
+"start_ref": "14029027",
+"start_ref_usfm": "2CH 29:27",
+"end_ref": "14029027",
+"end_ref_usfm": "2CH 29:27"
+},
+{
+"start_ref": "01037003",
+"start_ref_usfm": "GEN 37:3",
+"end_ref": "01037003",
+"end_ref_usfm": "GEN 37:3"
+},
+{
+"start_ref": "01019015",
+"start_ref_usfm": "GEN 19:15",
+"end_ref": "01019015",
+"end_ref_usfm": "GEN 19:15"
+},
+{
+"start_ref": "07006005",
+"start_ref_usfm": "JDG 6:5",
+"end_ref": "07006005",
+"end_ref_usfm": "JDG 6:5"
+},
+{
+"start_ref": "20025025",
+"start_ref_usfm": "PRO 25:25",
+"end_ref": "20025025",
+"end_ref_usfm": "PRO 25:25"
+},
+{
+"start_ref": "19012003",
+"start_ref_usfm": "PSA 12:3",
+"end_ref": "19012003",
+"end_ref_usfm": "PSA 12:3"
+},
+{
+"start_ref": "02012044",
+"start_ref_usfm": "EXO 12:44",
+"end_ref": "02012044",
+"end_ref_usfm": "EXO 12:44"
+},
+{
+"start_ref": "23019006",
+"start_ref_usfm": "ISA 19:6",
+"end_ref": "23019006",
+"end_ref_usfm": "ISA 19:6"
+},
+{
+"start_ref": "23066009",
+"start_ref_usfm": "ISA 66:9",
+"end_ref": "23066009",
+"end_ref_usfm": "ISA 66:9"
+},
+{
+"start_ref": "02014015",
+"start_ref_usfm": "EXO 14:15",
+"end_ref": "02014015",
+"end_ref_usfm": "EXO 14:15"
+},
+{
+"start_ref": "30003011",
+"start_ref_usfm": "AMO 3:11",
+"end_ref": "30003011",
+"end_ref_usfm": "AMO 3:11"
+},
+{
+"start_ref": "05017012",
+"start_ref_usfm": "DEU 17:12",
+"end_ref": "05017012",
+"end_ref_usfm": "DEU 17:12"
+},
+{
+"start_ref": "14008013",
+"start_ref_usfm": "2CH 8:13",
+"end_ref": "14008013",
+"end_ref_usfm": "2CH 8:13"
+},
+{
+"start_ref": "01003023",
+"start_ref_usfm": "GEN 3:23",
+"end_ref": "01003023",
+"end_ref_usfm": "GEN 3:23"
+},
+{
+"start_ref": "01034012",
+"start_ref_usfm": "GEN 34:12",
+"end_ref": "01034012",
+"end_ref_usfm": "GEN 34:12"
+},
+{
+"start_ref": "20025003",
+"start_ref_usfm": "PRO 25:3",
+"end_ref": "20025003",
+"end_ref_usfm": "PRO 25:3"
+},
+{
+"start_ref": "23014010",
+"start_ref_usfm": "ISA 14:10",
+"end_ref": "23014010",
+"end_ref_usfm": "ISA 14:10"
+},
+{
+"start_ref": "10011011",
+"start_ref_usfm": "2SA 11:11",
+"end_ref": "10011011",
+"end_ref_usfm": "2SA 11:11"
+},
+{
+"start_ref": "02012013",
+"start_ref_usfm": "EXO 12:13",
+"end_ref": "02012013",
+"end_ref_usfm": "EXO 12:13"
+},
+{
+"start_ref": "10017028",
+"start_ref_usfm": "2SA 17:28",
+"end_ref": "10017028",
+"end_ref_usfm": "2SA 17:28"
+},
+{
+"start_ref": "19018001",
+"start_ref_usfm": "PSA 18:1",
+"end_ref": "19018001",
+"end_ref_usfm": "PSA 18:1"
+},
+{
+"start_ref": "23002001",
+"start_ref_usfm": "ISA 2:1",
+"end_ref": "23002001",
+"end_ref_usfm": "ISA 2:1"
+},
+{
+"start_ref": "30004010",
+"start_ref_usfm": "AMO 4:10",
+"end_ref": "30004010",
+"end_ref_usfm": "AMO 4:10"
+},
+{
+"start_ref": "09018023",
+"start_ref_usfm": "1SA 18:23",
+"end_ref": "09018023",
+"end_ref_usfm": "1SA 18:23"
+},
+{
+"start_ref": "05032007",
+"start_ref_usfm": "DEU 32:7",
+"end_ref": "05032007",
+"end_ref_usfm": "DEU 32:7"
+},
+{
+"start_ref": "18015017",
+"start_ref_usfm": "JOB 15:17",
+"end_ref": "18015017",
+"end_ref_usfm": "JOB 15:17"
+},
+{
+"start_ref": "13012033",
+"start_ref_usfm": "1CH 12:33",
+"end_ref": "13012033",
+"end_ref_usfm": "1CH 12:33"
+},
+{
+"start_ref": "01007013",
+"start_ref_usfm": "GEN 7:13",
+"end_ref": "01007013",
+"end_ref_usfm": "GEN 7:13"
+},
+{
+"start_ref": "06015019",
+"start_ref_usfm": "JOS 15:19",
+"end_ref": "06015019",
+"end_ref_usfm": "JOS 15:19"
+},
+{
+"start_ref": "17004016",
+"start_ref_usfm": "EST 4:16",
+"end_ref": "17004016",
+"end_ref_usfm": "EST 4:16"
+},
+{
+"start_ref": "10024003",
+"start_ref_usfm": "2SA 24:3",
+"end_ref": "10024003",
+"end_ref_usfm": "2SA 24:3"
+},
+{
+"start_ref": "06015047",
+"start_ref_usfm": "JOS 15:47",
+"end_ref": "06015047",
+"end_ref_usfm": "JOS 15:47"
+},
+{
+"start_ref": "01030030",
+"start_ref_usfm": "GEN 30:30",
+"end_ref": "01030030",
+"end_ref_usfm": "GEN 30:30"
+},
+{
+"start_ref": "18031026",
+"start_ref_usfm": "JOB 31:26",
+"end_ref": "18031026",
+"end_ref_usfm": "JOB 31:26"
+},
+{
+"start_ref": "17009027",
+"start_ref_usfm": "EST 9:27",
+"end_ref": "17009027",
+"end_ref_usfm": "EST 9:27"
+},
+{
+"start_ref": "19068010",
+"start_ref_usfm": "PSA 68:10",
+"end_ref": "19068010",
+"end_ref_usfm": "PSA 68:10"
+},
+{
+"start_ref": "05004033",
+"start_ref_usfm": "DEU 4:33",
+"end_ref": "05004033",
+"end_ref_usfm": "DEU 4:33"
+},
+{
+"start_ref": "01027029",
+"start_ref_usfm": "GEN 27:29",
+"end_ref": "01027029",
+"end_ref_usfm": "GEN 27:29"
+},
+{
+"start_ref": "11008032",
+"start_ref_usfm": "1KI 8:32",
+"end_ref": "11008032",
+"end_ref_usfm": "1KI 8:32"
+},
+{
+"start_ref": "21007001",
+"start_ref_usfm": "ECC 7:1",
+"end_ref": "21007001",
+"end_ref_usfm": "ECC 7:1"
+},
+{
+"start_ref": "01006008",
+"start_ref_usfm": "GEN 6:8",
+"end_ref": "01006008",
+"end_ref_usfm": "GEN 6:8"
+},
+{
+"start_ref": "24021006",
+"start_ref_usfm": "JER 21:6",
+"end_ref": "24021006",
+"end_ref_usfm": "JER 21:6"
+},
+{
+"start_ref": "06007003",
+"start_ref_usfm": "JOS 7:3",
+"end_ref": "06007003",
+"end_ref_usfm": "JOS 7:3"
+},
+{
+"start_ref": "01015006",
+"start_ref_usfm": "GEN 15:6",
+"end_ref": "01015006",
+"end_ref_usfm": "GEN 15:6"
+},
+{
+"start_ref": "01017002",
+"start_ref_usfm": "GEN 17:2",
+"end_ref": "01017002",
+"end_ref_usfm": "GEN 17:2"
+},
+{
+"start_ref": "19125002",
+"start_ref_usfm": "PSA 125:2",
+"end_ref": "19125002",
+"end_ref_usfm": "PSA 125:2"
+},
+{
+"start_ref": "05003016",
+"start_ref_usfm": "DEU 3:16",
+"end_ref": "05003016",
+"end_ref_usfm": "DEU 3:16"
+},
+{
+"start_ref": "10019029",
+"start_ref_usfm": "2SA 19:29",
+"end_ref": "10019029",
+"end_ref_usfm": "2SA 19:29"
+},
+{
+"start_ref": "30002001",
+"start_ref_usfm": "AMO 2:1",
+"end_ref": "30002001",
+"end_ref_usfm": "AMO 2:1"
+},
+{
+"start_ref": "23029020",
+"start_ref_usfm": "ISA 29:20",
+"end_ref": "23029020",
+"end_ref_usfm": "ISA 29:20"
+},
+{
+"start_ref": "01031010",
+"start_ref_usfm": "GEN 31:10",
+"end_ref": "01031010",
+"end_ref_usfm": "GEN 31:10"
+},
+{
+"start_ref": "01018012",
+"start_ref_usfm": "GEN 18:12",
+"end_ref": "01018012",
+"end_ref_usfm": "GEN 18:12"
+},
+{
+"start_ref": "18014011",
+"start_ref_usfm": "JOB 14:11",
+"end_ref": "18014011",
+"end_ref_usfm": "JOB 14:11"
+},
+{
+"start_ref": "20030021",
+"start_ref_usfm": "PRO 30:21",
+"end_ref": "20030021",
+"end_ref_usfm": "PRO 30:21"
+},
+{
+"start_ref": "02029003",
+"start_ref_usfm": "EXO 29:3",
+"end_ref": "02029003",
+"end_ref_usfm": "EXO 29:3"
+},
+{
+"start_ref": "21002013",
+"start_ref_usfm": "ECC 2:13",
+"end_ref": "21002013",
+"end_ref_usfm": "ECC 2:13"
+},
+{
+"start_ref": "25003026",
+"start_ref_usfm": "LAM 3:26",
+"end_ref": "25003026",
+"end_ref_usfm": "LAM 3:26"
+},
+{
+"start_ref": "30001006",
+"start_ref_usfm": "AMO 1:6",
+"end_ref": "30001006",
+"end_ref_usfm": "AMO 1:6"
+},
+{
+"start_ref": "01004002",
+"start_ref_usfm": "GEN 4:2",
+"end_ref": "01004002",
+"end_ref_usfm": "GEN 4:2"
+},
+{
+"start_ref": "11002026",
+"start_ref_usfm": "1KI 2:26",
+"end_ref": "11002026",
+"end_ref_usfm": "1KI 2:26"
+},
+{
+"start_ref": "01041011",
+"start_ref_usfm": "GEN 41:11",
+"end_ref": "01041011",
+"end_ref_usfm": "GEN 41:11"
+},
+{
+"start_ref": "23016005",
+"start_ref_usfm": "ISA 16:5",
+"end_ref": "23016005",
+"end_ref_usfm": "ISA 16:5"
+},
+{
+"start_ref": "18029012",
+"start_ref_usfm": "JOB 29:12",
+"end_ref": "18029012",
+"end_ref_usfm": "JOB 29:12"
+},
+{
+"start_ref": "02012003",
+"start_ref_usfm": "EXO 12:3",
+"end_ref": "02012003",
+"end_ref_usfm": "EXO 12:3"
+},
+{
+"start_ref": "18023012",
+"start_ref_usfm": "JOB 23:12",
+"end_ref": "18023012",
+"end_ref_usfm": "JOB 23:12"
+},
+{
+"start_ref": "24032020",
+"start_ref_usfm": "JER 32:20",
+"end_ref": "24032020",
+"end_ref_usfm": "JER 32:20"
+},
+{
+"start_ref": "10015034",
+"start_ref_usfm": "2SA 15:34",
+"end_ref": "10015034",
+"end_ref_usfm": "2SA 15:34"
+},
+{
+"start_ref": "17008013",
+"start_ref_usfm": "EST 8:13",
+"end_ref": "17008013",
+"end_ref_usfm": "EST 8:13"
+},
+{
+"start_ref": "01022004",
+"start_ref_usfm": "GEN 22:4",
+"end_ref": "01022004",
+"end_ref_usfm": "GEN 22:4"
+},
+{
+"start_ref": "18032016",
+"start_ref_usfm": "JOB 32:16",
+"end_ref": "18032016",
+"end_ref_usfm": "JOB 32:16"
+},
+{
+"start_ref": "23038015",
+"start_ref_usfm": "ISA 38:15",
+"end_ref": "23038015",
+"end_ref_usfm": "ISA 38:15"
+},
+{
+"start_ref": "11002006",
+"start_ref_usfm": "1KI 2:6",
+"end_ref": "11002006",
+"end_ref_usfm": "1KI 2:6"
+},
+{
+"start_ref": "16013024",
+"start_ref_usfm": "NEH 13:24",
+"end_ref": "16013024",
+"end_ref_usfm": "NEH 13:24"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "04012008",
+"start_ref_usfm": "NUM 12:8",
+"end_ref": "04012008",
+"end_ref_usfm": "NUM 12:8"
+},
+{
+"start_ref": "24020009",
+"start_ref_usfm": "JER 20:9",
+"end_ref": "24020009",
+"end_ref_usfm": "JER 20:9"
+},
+{
+"start_ref": "22002003",
+"start_ref_usfm": "SNG 2:3",
+"end_ref": "22002003",
+"end_ref_usfm": "SNG 2:3"
+},
+{
+"start_ref": "23048007",
+"start_ref_usfm": "ISA 48:7",
+"end_ref": "23048007",
+"end_ref_usfm": "ISA 48:7"
+},
+{
+"start_ref": "17009021",
+"start_ref_usfm": "EST 9:21",
+"end_ref": "17009021",
+"end_ref_usfm": "EST 9:21"
+},
+{
+"start_ref": "19045018",
+"start_ref_usfm": "PSA 45:18",
+"end_ref": "19045018",
+"end_ref_usfm": "PSA 45:18"
+},
+{
+"start_ref": "08003009",
+"start_ref_usfm": "RUT 3:9",
+"end_ref": "08003009",
+"end_ref_usfm": "RUT 3:9"
+},
+{
+"start_ref": "09016014",
+"start_ref_usfm": "1SA 16:14",
+"end_ref": "09016014",
+"end_ref_usfm": "1SA 16:14"
+},
+{
+"start_ref": "01024062",
+"start_ref_usfm": "GEN 24:62",
+"end_ref": "01024062",
+"end_ref_usfm": "GEN 24:62"
+},
+{
+"start_ref": "11011001",
+"start_ref_usfm": "1KI 11:1",
+"end_ref": "11011001",
+"end_ref_usfm": "1KI 11:1"
+},
+{
+"start_ref": "30002006",
+"start_ref_usfm": "AMO 2:6",
+"end_ref": "30002006",
+"end_ref_usfm": "AMO 2:6"
+},
+{
+"start_ref": "23053002",
+"start_ref_usfm": "ISA 53:2",
+"end_ref": "23053002",
+"end_ref_usfm": "ISA 53:2"
+},
+{
+"start_ref": "04016003",
+"start_ref_usfm": "NUM 16:3",
+"end_ref": "04016003",
+"end_ref_usfm": "NUM 16:3"
+},
+{
+"start_ref": "18041012",
+"start_ref_usfm": "JOB 41:12",
+"end_ref": "18041012",
+"end_ref_usfm": "JOB 41:12"
+},
+{
+"start_ref": "24018008",
+"start_ref_usfm": "JER 18:8",
+"end_ref": "24018008",
+"end_ref_usfm": "JER 18:8"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "BDB02505",
+"reference_id": "BDB02505",
+"version": "1.0.4",
+"title": "וזר",
+"media_type": "Text",
+"index_reference": "וזר",
+"language": "eng",
+"review_level": "None",
+"content": "<style> body { margin: 0; color: #1d1d1b; background: #fbfaf7; font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; } .document-header { border-bottom: 2px solid #1d1d1b; margin-bottom: 28px; padding-bottom: 16px; } h1, h2, h3 { line-height: 1.2; margin: 0; } h1 { font-size: 2rem; } .bdb-entry { border-top: 1px solid #bbb4a8; padding: 26px 0 8px; } .article-header { margin-bottom: 18px; } .article-header h2 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 12px; font-size: 1.55rem; } .bdb-subentry { margin: 18px 0 24px; padding-left: 18px; border-left: 4px solid #d4c8ad; } .bdb-subentry h3 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.15rem; } .bdb-code { color: #6a4f1c; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.82em; } .headwords, .hebrew { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; } .section-definition, .article-definition { color: #57524a; margin: 6px 0 10px; } .entry-meta { color: #5d5a54; display: flex; flex-wrap: wrap; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; gap: 6px 14px; margin: 8px 0 10px; } .entry-meta span { white-space: nowrap; } p.p { margin: 10px 0; } .strongs-number { color: #785f28; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; } .ref { color: #245f73; } .arabic, .syriac, .samaritan, .persian { direction: rtl; unicode-bidi: isolate; } .unmapped-entries { border-top: 2px solid #8c7b61; margin-top: 36px; padding-top: 24px; } .ethiopic { font-family: \"Abyssinica SIL\", \"GFF Amharic\", serif; } .greek { font-family: \"GFS Porson\", \"Gentium Plus\", \"Times New Roman\", serif; } blockquote { margin-left: 2em; } .strongs-number { vertical-align: super; font-size: smaller; } </style> <p class=\"p\"><span class=\"hebrew\">וזר</span> (√ of foll.; cf. <abbr data-bdb=\"ABBR.454\">Ar.</abbr> <span class=\"arabic\">وَزَرَ</span> <i>bear a burden</i>, or <i>be guilty</i>, yet v. Fl in <abbr data-bdb=\"ABBR.130\">De</abbr> <a href=\"https://ref.ly/Prov21:8\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 21:8</a>).</p> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">2054</span>]</abbr> † <span class=\"hebrew\">וָזָר</span> <b>adj.</b> criminal, guilty <span class=\"hebrew\">חֲפַכְפַּךְ דֶּרֶךְ</span> <span class=\"hebrew\">אִישׁ וָזָרָ</span> <a href=\"https://ref.ly/Prov21:8\"><abbr data-bdb=\"ABBR.512\">Pr</abbr> 21:8</a> <i>crooked</i> is <i>the way of a guilty man</i> (<abbr data-bdb=\"ABBR.587\">si vera l.</abbr>; txt. <abbr data-bdb=\"ABBR.167\">dub.</abbr>; possible dittogr. in <span class=\"hebrew\">וָזָר וְזַךְ</span>?).</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">2055</span>]</abbr> † <span class=\"hebrew\">וַיְזָתָא</span> <b>n.pr.m.</b> (perhaps = <abbr data-bdb=\"ABBR.498\">Pers.</abbr> n.pr.m. <i>Vahyazdâta</i> Benfey<sup>Pers</sup>. Keilinschr. (1847) 18, 93 cf. <abbr data-bdb=\"ABBR.599\">Spieg<sup>APK</sup></abbr> 240, who conjectures meaning <i>given-of-the-Best-One</i> (vom Besten gegeben)),—a son of Haman <a href=\"https://ref.ly/Esth9:9\">Est 9:9</a>.</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">2056</span>]</abbr> <span class=\"hebrew\">וָלָד</span>, <span class=\"hebrew\">וֶלֶד</span> v. sub <span class=\"hebrew\">ילד</span>. p. 409</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">2057</span>]</abbr> † <span class=\"hebrew\">וַנְיָה</span> <b>n.pr.m.</b> one of those with strange wives, <a href=\"https://ref.ly/Ezra10:36\">Ezr 10:36</a> (text dubious; LXXB <span class=\"greek\">Οὐιεχωα</span>, <span class=\"hebrew\">א</span> <span class=\"greek\">Οὐιερεχω</span>, A <span class=\"greek\">Οὐουνια</span>, LXXL <span class=\"greek\">Οὐανια</span>).</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">2058</span>]</abbr> † <span class=\"hebrew\">וָפְסִי</span> <b>n.pr.m.</b> a man of Naphtali, in <span class=\"hebrew\">נַחְבִּי בֶּן־וָפְסִי</span> <a href=\"https://ref.ly/Num13:14\">Nu 13:14</a> (text dubious; LXX <span class=\"greek\">Ναβει</span> <span class=\"greek\">υἱὸς Ἰαβει</span>).</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">2059</span>]</abbr> † <span class=\"hebrew\">וַשְׁנִי</span> acc. to <abbr data-bdb=\"ABBR.430\">MT</abbr> appar. <b>n.pr.m.</b> son of Samuel, only <span class=\"hebrew\">הַבְּכֹר וַשְׁנִי וַאֲבִיָּה</span> <a href=\"https://ref.ly/1Chr6:13\">1 Ch 6:13</a>, but rd. <span class=\"hebrew\">הַבְּכֹר יוֺאֵל וְהַשֵּׁנִי אביה</span> cf. LXXL, and ‖ <a href=\"https://ref.ly/1Sam8:2\">1 S 8:2</a>; v. Th<sup>Sm</sup> <abbr data-bdb=\"ABBR.50\">Be<sup>Ch</sup></abbr> <abbr data-bdb=\"ABBR.164\">Dr<sup>Sm</sup></abbr> <abbr data-bdb=\"ABBR.10\">al.</abbr></p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">2060</span>]</abbr> † <span class=\"hebrew\">וַשְׁתִּי</span> <b>n.pr.f.</b> (= <abbr data-bdb=\"ABBR.498\">Pers.</abbr> (Zend) <i>vahista, best</i>, cf. Justi<sup>Hdb</sup>. d. Zendsprache, 272) queen of Ahasuerus (Xerxes) king of Persia, <a href=\"https://ref.ly/Esth1:9\">Est 1:9</a>, <a href=\"https://ref.ly/Esth1:11\">1:11</a>, <a href=\"https://ref.ly/Esth1:12\">1:12</a>, <a href=\"https://ref.ly/Esth1:15\">1:15</a>, <a href=\"https://ref.ly/Esth1:16\">1:16</a>, <a href=\"https://ref.ly/Esth1:17\">1:17</a>, <a href=\"https://ref.ly/Esth1:19\">1:19</a>, <a href=\"https://ref.ly/Esth2:1\">2:1</a>, <a href=\"https://ref.ly/Esth2:4\">2:4</a>, <a href=\"https://ref.ly/Esth2:17\">2:17</a>.</p></blockquote>",
+"associations": {
+"passage": [
+{
+"start_ref": "04013014",
+"start_ref_usfm": "NUM 13:14",
+"end_ref": "04013014",
+"end_ref_usfm": "NUM 13:14"
+},
+{
+"start_ref": "17001019",
+"start_ref_usfm": "EST 1:19",
+"end_ref": "17001019",
+"end_ref_usfm": "EST 1:19"
+},
+{
+"start_ref": "13006013",
+"start_ref_usfm": "1CH 6:13",
+"end_ref": "13006013",
+"end_ref_usfm": "1CH 6:13"
+},
+{
+"start_ref": "09008002",
+"start_ref_usfm": "1SA 8:2",
+"end_ref": "09008002",
+"end_ref_usfm": "1SA 8:2"
+},
+{
+"start_ref": "17001012",
+"start_ref_usfm": "EST 1:12",
+"end_ref": "17001012",
+"end_ref_usfm": "EST 1:12"
+},
+{
+"start_ref": "17002004",
+"start_ref_usfm": "EST 2:4",
+"end_ref": "17002004",
+"end_ref_usfm": "EST 2:4"
+},
+{
+"start_ref": "17009009",
+"start_ref_usfm": "EST 9:9",
+"end_ref": "17009009",
+"end_ref_usfm": "EST 9:9"
+},
+{
+"start_ref": "17002017",
+"start_ref_usfm": "EST 2:17",
+"end_ref": "17002017",
+"end_ref_usfm": "EST 2:17"
+},
+{
+"start_ref": "17002001",
+"start_ref_usfm": "EST 2:1",
+"end_ref": "17002001",
+"end_ref_usfm": "EST 2:1"
+},
+{
+"start_ref": "17001016",
+"start_ref_usfm": "EST 1:16",
+"end_ref": "17001016",
+"end_ref_usfm": "EST 1:16"
+},
+{
+"start_ref": "17001015",
+"start_ref_usfm": "EST 1:15",
+"end_ref": "17001015",
+"end_ref_usfm": "EST 1:15"
+},
+{
+"start_ref": "15010036",
+"start_ref_usfm": "EZR 10:36",
+"end_ref": "15010036",
+"end_ref_usfm": "EZR 10:36"
+},
+{
+"start_ref": "17001017",
+"start_ref_usfm": "EST 1:17",
+"end_ref": "17001017",
+"end_ref_usfm": "EST 1:17"
+},
+{
+"start_ref": "17001009",
+"start_ref_usfm": "EST 1:9",
+"end_ref": "17001009",
+"end_ref_usfm": "EST 1:9"
+},
+{
+"start_ref": "20021008",
+"start_ref_usfm": "PRO 21:8",
+"end_ref": "20021008",
+"end_ref_usfm": "PRO 21:8"
+},
+{
+"start_ref": "17001011",
+"start_ref_usfm": "EST 1:11",
+"end_ref": "17001011",
+"end_ref_usfm": "EST 1:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "BDB09534",
+"reference_id": "BDB09534",
+"version": "1.0.4",
+"title": "וּ",
+"media_type": "Text",
+"index_reference": "וּ",
+"language": "eng",
+"review_level": "None",
+"content": "<style> body { margin: 0; color: #1d1d1b; background: #fbfaf7; font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; } .document-header { border-bottom: 2px solid #1d1d1b; margin-bottom: 28px; padding-bottom: 16px; } h1, h2, h3 { line-height: 1.2; margin: 0; } h1 { font-size: 2rem; } .bdb-entry { border-top: 1px solid #bbb4a8; padding: 26px 0 8px; } .article-header { margin-bottom: 18px; } .article-header h2 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 12px; font-size: 1.55rem; } .bdb-subentry { margin: 18px 0 24px; padding-left: 18px; border-left: 4px solid #d4c8ad; } .bdb-subentry h3 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.15rem; } .bdb-code { color: #6a4f1c; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.82em; } .headwords, .hebrew { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; } .section-definition, .article-definition { color: #57524a; margin: 6px 0 10px; } .entry-meta { color: #5d5a54; display: flex; flex-wrap: wrap; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; gap: 6px 14px; margin: 8px 0 10px; } .entry-meta span { white-space: nowrap; } p.p { margin: 10px 0; } .strongs-number { color: #785f28; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; } .ref { color: #245f73; } .arabic, .syriac, .samaritan, .persian { direction: rtl; unicode-bidi: isolate; } .unmapped-entries { border-top: 2px solid #8c7b61; margin-top: 36px; padding-top: 24px; } .ethiopic { font-family: \"Abyssinica SIL\", \"GFF Amharic\", serif; } .greek { font-family: \"GFS Porson\", \"Gentium Plus\", \"Times New Roman\", serif; } blockquote { margin-left: 2em; } .strongs-number { vertical-align: super; font-size: smaller; } </style> <p class=\"p\"><abbr>[Str<span class=\"strongs-number\">8304,7724</span>]</abbr> † (<span class=\"hebrew\">וּ</span>)<span class=\"hebrew\">שְרָיָה</span> <b>n. pr. m.</b> (´<span class=\"hebrew\">י</span>: <i>persisteth</i> <abbr data-bdb=\"ABBR.160\">Dr<sup>Hast</sup></abbr>. <abbr data-bdb=\"ABBR.129\">DB</abbr>. ii. 530 JACOB);—<abbr data-bdb=\"ABBR.660\">usu.</abbr> <span class=\"greek\">Σαραια</span>(<span class=\"greek\">ς</span>);—<span class=\"hebrew\">שְרָיָה</span>: <b>1.</b> secretary of David <a href=\"https://ref.ly/2Sam8:17\">2 S 8:17</a>, but LXX<sup>B</sup> <span class=\"greek\">Ασα</span>, ‖<span class=\"hebrew\">שיא</span> <a href=\"https://ref.ly/2Sam20:25\">20:25</a> <abbr data-bdb=\"ABBR.359\">Kt</abbr> (<span class=\"hebrew\">שְׁוָא</span> <abbr data-bdb=\"ABBR.523\">Qr</abbr>), <span class=\"hebrew\">שַׁוְשָׁא</span> <a href=\"https://ref.ly/1Chr18:16\">1 Ch 18:16</a> (in both <span class=\"greek\">Ἰησοῦς</span>, LXXL <span class=\"greek\">Σουσα</span>), <span class=\"hebrew\">שִׁישָׁא</span> <a href=\"https://ref.ly/1Kgs4:3\">1 K 4:3</a> (<span class=\"greek\">Σαβα</span>, A <span class=\"greek\">Σεισα</span>, LXXL <span class=\"greek\">Σαφατ</span>); orig. in all prob. <span class=\"hebrew\">ששא</span> <abbr data-bdb=\"ABBR.680\">We</abbr> <abbr data-bdb=\"ABBR.160\">Dr</abbr> <abbr data-bdb=\"ABBR.339\">Klo</abbr> (<i>Sausa</i>), <abbr data-bdb=\"ABBR.262\">HPS</abbr> (<span class=\"hebrew\">שושא</span>), <abbr data-bdb=\"ABBR.462\">Now</abbr> (<i>Šoša</i>), <abbr data-bdb=\"ABBR.82\">Bu</abbr>. <b>2.</b> chief priest <a href=\"https://ref.ly/2Kgs25:18\">2 K 25:18</a> = <a href=\"https://ref.ly/Jer52:24\">Je 52:24</a>. <b>3.</b> a captain <a href=\"https://ref.ly/2Kgs25:23\">2 K 25:23</a>, <a href=\"https://ref.ly/Jer40:8\">Je 40:8</a>, <a href=\"https://ref.ly/Jer51:59\">51:59</a>, <a href=\"https://ref.ly/Jer51:59\">51:59</a>, <a href=\"https://ref.ly/Jer51:61\">51:61</a>. <b>4. a.</b> son of Ḳenaz <a href=\"https://ref.ly/1Chr4:13\">1 Ch 4:13</a>, <a href=\"https://ref.ly/1Chr4:14\">4:14</a>. <b>b.</b> name in Simeon v:<a href=\"https://ref.ly/1Chr4:35\">35</a>. <b><abbr data-bdb=\"ABBR.380\">c.</abbr></b> Levite name 5:40, 5:40. <b>5. a.</b> companion of Zerub. <a href=\"https://ref.ly/Ezra2:2\">Ezr 2:2</a>. <b>b.</b> father of <a href=\"https://ref.ly/Ezra7:1\">Ezra 7:1</a>. <b><abbr data-bdb=\"ABBR.380\">c.</abbr></b> one sealed <a href=\"https://ref.ly/Neh10:3\"><abbr data-bdb=\"ABBR.441\">Ne</abbr> 10:3</a>. <b>d.</b> priest <a href=\"https://ref.ly/Neh11:11\">11:11</a>, <a href=\"https://ref.ly/Neh12:1\">12:1</a>, <a href=\"https://ref.ly/Neh12:12\">12:12</a>. <b>6.</b> <span class=\"hebrew\">שְרָיָהוּ</span>, officer of king Jehoiakim, <a href=\"https://ref.ly/Jer36:26\">Je 36:26</a>, <span class=\"greek\">τῷ Σαρεα</span>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24051061",
+"start_ref_usfm": "JER 51:61",
+"end_ref": "24051061",
+"end_ref_usfm": "JER 51:61"
+},
+{
+"start_ref": "12025018",
+"start_ref_usfm": "2KI 25:18",
+"end_ref": "12025018",
+"end_ref_usfm": "2KI 25:18"
+},
+{
+"start_ref": "24036026",
+"start_ref_usfm": "JER 36:26",
+"end_ref": "24036026",
+"end_ref_usfm": "JER 36:26"
+},
+{
+"start_ref": "10008017",
+"start_ref_usfm": "2SA 8:17",
+"end_ref": "10008017",
+"end_ref_usfm": "2SA 8:17"
+},
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15007001",
+"end_ref_usfm": "EZR 7:1"
+},
+{
+"start_ref": "24040008",
+"start_ref_usfm": "JER 40:8",
+"end_ref": "24040008",
+"end_ref_usfm": "JER 40:8"
+},
+{
+"start_ref": "24051059",
+"start_ref_usfm": "JER 51:59",
+"end_ref": "24051059",
+"end_ref_usfm": "JER 51:59"
+},
+{
+"start_ref": "16012001",
+"start_ref_usfm": "NEH 12:1",
+"end_ref": "16012001",
+"end_ref_usfm": "NEH 12:1"
+},
+{
+"start_ref": "13018016",
+"start_ref_usfm": "1CH 18:16",
+"end_ref": "13018016",
+"end_ref_usfm": "1CH 18:16"
+},
+{
+"start_ref": "10020025",
+"start_ref_usfm": "2SA 20:25",
+"end_ref": "10020025",
+"end_ref_usfm": "2SA 20:25"
+},
+{
+"start_ref": "13004014",
+"start_ref_usfm": "1CH 4:14",
+"end_ref": "13004014",
+"end_ref_usfm": "1CH 4:14"
+},
+{
+"start_ref": "16010003",
+"start_ref_usfm": "NEH 10:3",
+"end_ref": "16010003",
+"end_ref_usfm": "NEH 10:3"
+},
+{
+"start_ref": "13004013",
+"start_ref_usfm": "1CH 4:13",
+"end_ref": "13004013",
+"end_ref_usfm": "1CH 4:13"
+},
+{
+"start_ref": "24052024",
+"start_ref_usfm": "JER 52:24",
+"end_ref": "24052024",
+"end_ref_usfm": "JER 52:24"
+},
+{
+"start_ref": "11004003",
+"start_ref_usfm": "1KI 4:3",
+"end_ref": "11004003",
+"end_ref_usfm": "1KI 4:3"
+},
+{
+"start_ref": "12025023",
+"start_ref_usfm": "2KI 25:23",
+"end_ref": "12025023",
+"end_ref_usfm": "2KI 25:23"
+},
+{
+"start_ref": "16011011",
+"start_ref_usfm": "NEH 11:11",
+"end_ref": "16011011",
+"end_ref_usfm": "NEH 11:11"
+},
+{
+"start_ref": "16012012",
+"start_ref_usfm": "NEH 12:12",
+"end_ref": "16012012",
+"end_ref_usfm": "NEH 12:12"
+},
+{
+"start_ref": "15002002",
+"start_ref_usfm": "EZR 2:2",
+"end_ref": "15002002",
+"end_ref_usfm": "EZR 2:2"
+},
+{
+"start_ref": "13004035",
+"start_ref_usfm": "1CH 4:35",
+"end_ref": "13004035",
+"end_ref_usfm": "1CH 4:35"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "BDB09542",
+"reference_id": "BDB09542",
+"version": "1.0.4",
+"title": "וּ",
+"media_type": "Text",
+"index_reference": "וּ",
+"language": "eng",
+"review_level": "None",
+"content": "<style> body { margin: 0; color: #1d1d1b; background: #fbfaf7; font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; } .document-header { border-bottom: 2px solid #1d1d1b; margin-bottom: 28px; padding-bottom: 16px; } h1, h2, h3 { line-height: 1.2; margin: 0; } h1 { font-size: 2rem; } .bdb-entry { border-top: 1px solid #bbb4a8; padding: 26px 0 8px; } .article-header { margin-bottom: 18px; } .article-header h2 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 12px; font-size: 1.55rem; } .bdb-subentry { margin: 18px 0 24px; padding-left: 18px; border-left: 4px solid #d4c8ad; } .bdb-subentry h3 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.15rem; } .bdb-code { color: #6a4f1c; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.82em; } .headwords, .hebrew { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; } .section-definition, .article-definition { color: #57524a; margin: 6px 0 10px; } .entry-meta { color: #5d5a54; display: flex; flex-wrap: wrap; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; gap: 6px 14px; margin: 8px 0 10px; } .entry-meta span { white-space: nowrap; } p.p { margin: 10px 0; } .strongs-number { color: #785f28; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; } .ref { color: #245f73; } .arabic, .syriac, .samaritan, .persian { direction: rtl; unicode-bidi: isolate; } .unmapped-entries { border-top: 2px solid #8c7b61; margin-top: 36px; padding-top: 24px; } .ethiopic { font-family: \"Abyssinica SIL\", \"GFF Amharic\", serif; } .greek { font-family: \"GFS Porson\", \"Gentium Plus\", \"Times New Roman\", serif; } blockquote { margin-left: 2em; } .strongs-number { vertical-align: super; font-size: smaller; } </style> <p class=\"p\"><abbr>[Str<span class=\"strongs-number\">8304</span>]</abbr> (<span class=\"hebrew\">וּ</span>)<span class=\"hebrew\">שְרָיָה</span> v. sub I. <span class=\"hebrew\">שרה</span>. above</p> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">8303</span>]</abbr> † <span class=\"hebrew\">שִרְיֹן</span>, <span class=\"hebrew\">וֺן</span> <b>n. pr. mont.</b> (in <abbr data-bdb=\"ABBR.17\">As.</abbr> <i>Sirara</i> <abbr data-bdb=\"ABBR.117\">COT</abbr>:<a href=\"https://ref.ly/Deut3:9\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 3:9</a>, <a href=\"https://ref.ly/1Kgs5:13\">1 K 5:13</a>, Dl<sup>Pa</sup> 103 f.);—Sidonian name of Ḥermon <a href=\"https://ref.ly/Deut3:9\"><abbr data-bdb=\"ABBR.166\">Dt</abbr> 3:9</a> (<span class=\"greek\">Σανιωρ</span>); <span class=\"hebrew\">וֺן</span>- <a href=\"https://ref.ly/Ps29:6\">Psalm 29:6</a> (+ <span class=\"hebrew\">לְבָנוֺן</span>; van d. H. <abbr data-bdb=\"ABBR.10\">al.</abbr> ´<span class=\"hebrew\">שׁ</span>:).</p></blockquote>",
+"associations": {
+"passage": [
+{
+"start_ref": "11005013",
+"start_ref_usfm": "1KI 5:13",
+"end_ref": "11005013",
+"end_ref_usfm": "1KI 5:13"
+},
+{
+"start_ref": "19029006",
+"start_ref_usfm": "PSA 29:6",
+"end_ref": "19029006",
+"end_ref_usfm": "PSA 29:6"
+},
+{
+"start_ref": "05003009",
+"start_ref_usfm": "DEU 3:9",
+"end_ref": "05003009",
+"end_ref_usfm": "DEU 3:9"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]
