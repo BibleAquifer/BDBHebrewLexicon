@@ -30,7 +30,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "BDBHebrewLexicon",
-"date_created": "2026-09-18",
+"date_created": "2026-11-20",
 "language": "eng",
 "localizations": [],
 "order": "alphabetical",
@@ -42,7 +42,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T08:02:17.422484"
+"dateCreated": "2026-11-20T18:51:56.359798"
 },
 "idAuthorities": {
 "aquifer": {
@@ -56,7 +56,7 @@
 "primary": {
 "aquifer": {
 "BDBHebrewLexicon": {
-"timestamp": "2026-09-18T08:02:17.422484"
+"timestamp": "2026-11-20T18:51:56.359798"
 }
 }
 },
@@ -88,7 +88,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 4206664,
+"size": 4208827,
 "scope": {
 "א": [
 "א",
@@ -268,7 +268,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 2799570,
+"size": 2800388,
 "scope": {
 "ב": [
 "ב",
@@ -371,7 +371,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 1570962,
+"size": 1571475,
 "scope": {
 "ג": [
 "ג",
@@ -469,7 +469,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 1345530,
+"size": 1345946,
 "scope": {
 "ד": [
 "ד",
@@ -544,7 +544,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 1766449,
+"size": 1767404,
 "scope": {
 "ה": [
 "ה",
@@ -625,7 +625,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 1308681,
+"size": 1309170,
 "scope": {
 "ז": [
 "ז",
@@ -701,7 +701,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 3598876,
+"size": 3600299,
 "scope": {
 "ח": [
 "ח",
@@ -896,7 +896,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 586325,
+"size": 586504,
 "scope": {
 "ט": [
 "ט",
@@ -945,7 +945,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 3245691,
+"size": 3247199,
 "scope": {
 "י": [
 "י",
@@ -1063,7 +1063,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 1310722,
+"size": 1311696,
 "scope": {
 "צ": [
 "צ",
@@ -1148,7 +1148,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 2510223,
+"size": 2512242,
 "scope": {
 "ר": [
 "ר",
@@ -1286,7 +1286,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 2345148,
+"size": 2346022,
 "scope": {
 "כ": [
 "כ",
@@ -1395,7 +1395,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 1698266,
+"size": 1698865,
 "scope": {
 "ל": [
 "ל",
@@ -1462,7 +1462,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 2695032,
+"size": 2704264,
 "scope": {
 "מ": [
 "מ",
@@ -1579,7 +1579,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 3257811,
+"size": 3259336,
 "scope": {
 "נ": [
 "נ",
@@ -1757,7 +1757,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 1085027,
+"size": 1085758,
 "scope": {
 "ס": [
 "ס",
@@ -1834,7 +1834,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 4056298,
+"size": 4058900,
 "scope": {
 "ע": [
 "ע",
@@ -2013,7 +2013,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 1959620,
+"size": 1960791,
 "scope": {
 "ק": [
 "קָצִין",
@@ -2123,7 +2123,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 1679217,
+"size": 1680169,
 "scope": {
 "פ": [
 "פ",
@@ -2242,7 +2242,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 4686876,
+"size": 4690239,
 "scope": {
 "ש": [
 "ש",
@@ -2490,7 +2490,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 725242,
+"size": 727144,
 "scope": {
 "ת": [
 "ת",
@@ -2543,69 +2543,342 @@
 "mimeType": "text/json",
 "size": 1619094
 },
+"alignments/json/01.alignment.json": {
+"mimeType": "text/json",
+"size": 6267018,
+"scope": {
+"GEN": []
+}
+},
+"alignments/json/02.alignment.json": {
+"mimeType": "text/json",
+"size": 5119878,
+"scope": {
+"EXO": []
+}
+},
+"alignments/json/03.alignment.json": {
+"mimeType": "text/json",
+"size": 3708314,
+"scope": {
+"LEV": []
+}
+},
+"alignments/json/04.alignment.json": {
+"mimeType": "text/json",
+"size": 4925772,
+"scope": {
+"NUM": []
+}
+},
+"alignments/json/05.alignment.json": {
+"mimeType": "text/json",
+"size": 4592534,
+"scope": {
+"DEU": []
+}
+},
+"alignments/json/06.alignment.json": {
+"mimeType": "text/json",
+"size": 3081554,
+"scope": {
+"JOS": []
+}
+},
+"alignments/json/07.alignment.json": {
+"mimeType": "text/json",
+"size": 3024714,
+"scope": {
+"JDG": []
+}
+},
+"alignments/json/08.alignment.json": {
+"mimeType": "text/json",
+"size": 397874,
+"scope": {
+"RUT": []
+}
+},
+"alignments/json/09.alignment.json": {
+"mimeType": "text/json",
+"size": 4069526,
+"scope": {
+"1SA": []
+}
+},
+"alignments/json/10.alignment.json": {
+"mimeType": "text/json",
+"size": 3328572,
+"scope": {
+"2SA": []
+}
+},
+"alignments/json/11.alignment.json": {
+"mimeType": "text/json",
+"size": 3978490,
+"scope": {
+"1KI": []
+}
+},
+"alignments/json/12.alignment.json": {
+"mimeType": "text/json",
+"size": 3698200,
+"scope": {
+"2KI": []
+}
+},
+"alignments/json/13.alignment.json": {
+"mimeType": "text/json",
+"size": 3228418,
+"scope": {
+"1CH": []
+}
+},
+"alignments/json/14.alignment.json": {
+"mimeType": "text/json",
+"size": 4200606,
+"scope": {
+"2CH": []
+}
+},
+"alignments/json/15.alignment.json": {
+"mimeType": "text/json",
+"size": 913616,
+"scope": {
+"EZR": []
+}
+},
+"alignments/json/16.alignment.json": {
+"mimeType": "text/json",
+"size": 1652718,
+"scope": {
+"NEH": []
+}
+},
+"alignments/json/17.alignment.json": {
+"mimeType": "text/json",
+"size": 960262,
+"scope": {
+"EST": []
+}
+},
+"alignments/json/18.alignment.json": {
+"mimeType": "text/json",
+"size": 2459922,
+"scope": {
+"JOB": []
+}
+},
+"alignments/json/19.alignment.json": {
+"mimeType": "text/json",
+"size": 5779642,
+"scope": {
+"PSA": []
+}
+},
+"alignments/json/20.alignment.json": {
+"mimeType": "text/json",
+"size": 1916510,
+"scope": {
+"PRO": []
+}
+},
+"alignments/json/21.alignment.json": {
+"mimeType": "text/json",
+"size": 889608,
+"scope": {
+"ECC": []
+}
+},
+"alignments/json/22.alignment.json": {
+"mimeType": "text/json",
+"size": 370378,
+"scope": {
+"SNG": []
+}
+},
+"alignments/json/23.alignment.json": {
+"mimeType": "text/json",
+"size": 4999998,
+"scope": {
+"ISA": []
+}
+},
+"alignments/json/24.alignment.json": {
+"mimeType": "text/json",
+"size": 6452226,
+"scope": {
+"JER": []
+}
+},
+"alignments/json/25.alignment.json": {
+"mimeType": "text/json",
+"size": 434358,
+"scope": {
+"LAM": []
+}
+},
+"alignments/json/26.alignment.json": {
+"mimeType": "text/json",
+"size": 5752580,
+"scope": {
+"EZK": []
+}
+},
+"alignments/json/27.alignment.json": {
+"mimeType": "text/json",
+"size": 1183394,
+"scope": {
+"DAN": []
+}
+},
+"alignments/json/28.alignment.json": {
+"mimeType": "text/json",
+"size": 703392,
+"scope": {
+"HOS": []
+}
+},
+"alignments/json/29.alignment.json": {
+"mimeType": "text/json",
+"size": 285658,
+"scope": {
+"JOL": []
+}
+},
+"alignments/json/30.alignment.json": {
+"mimeType": "text/json",
+"size": 595624,
+"scope": {
+"AMO": []
+}
+},
+"alignments/json/31.alignment.json": {
+"mimeType": "text/json",
+"size": 87744,
+"scope": {
+"OBA": []
+}
+},
+"alignments/json/32.alignment.json": {
+"mimeType": "text/json",
+"size": 215778,
+"scope": {
+"JON": []
+}
+},
+"alignments/json/33.alignment.json": {
+"mimeType": "text/json",
+"size": 422536,
+"scope": {
+"MIC": []
+}
+},
+"alignments/json/34.alignment.json": {
+"mimeType": "text/json",
+"size": 166686,
+"scope": {
+"NAM": []
+}
+},
+"alignments/json/35.alignment.json": {
+"mimeType": "text/json",
+"size": 201600,
+"scope": {
+"HAB": []
+}
+},
+"alignments/json/36.alignment.json": {
+"mimeType": "text/json",
+"size": 224384,
+"scope": {
+"ZEP": []
+}
+},
+"alignments/json/37.alignment.json": {
+"mimeType": "text/json",
+"size": 181092,
+"scope": {
+"HAG": []
+}
+},
+"alignments/json/38.alignment.json": {
+"mimeType": "text/json",
+"size": 945592,
+"scope": {
+"ZEC": []
+}
+},
+"alignments/json/39.alignment.json": {
+"mimeType": "text/json",
+"size": 259910,
+"scope": {
+"MAL": []
+}
+},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 677960
+"size": 677821
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 106486
+"size": 106467
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 282754
+"size": 282695
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 248250
+"size": 248204
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 238081
+"size": 237911
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 610439
+"size": 610226
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 303226
+"size": 303122
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 213346
+"size": 213307
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 601049
+"size": 600907
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 366766
+"size": 366687
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 506783
+"size": 506655
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 859544
+"size": 859255
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 455595
+"size": 455370
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 515014
+"size": 513334
 },
 "md/000.content.md": {
 "mimeType": "text/markdown",
-"size": 77677
+"size": 77647
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 247843
+"size": 247804
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
@@ -2613,27 +2886,27 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 758362
+"size": 758127
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 310110
+"size": 310071
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 458855
+"size": 458783
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 141152
+"size": 140810
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 349389
+"size": 349284
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 745932
+"size": 745718
 },
 "docx/000.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
